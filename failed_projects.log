@@ -1,0 +1,21 @@
+Failed Project Updates:
+Project ID: 819, Code: 25DIG063, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1392, Code: 25ROT070, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1394, Code: 25ROT071, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1396, Code: 25ROT072, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1397, Code: 25ROT073, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1427, Code: 25ROT074, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1683, Code: 25ROT075, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1685, Code: 25ROT076, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1687, Code: 25ROT077, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1688, Code: 25ROT078, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1718, Code: 25ROT079, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 1939, Code: None, Error: 'NoneType' object is not subscriptable
+Project ID: 2107, Code: 25NOV085, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 2110, Code: 25NOV086, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 2145, Code: 25NOV087, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 2148, Code: 25NOV088, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 2152, Code: 25NOV089, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 2153, Code: 25NOV090, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 2198, Code: 25NOV091, Error: UNIQUE constraint failed: project_project.project_code
+Project ID: 2221, Code: 25NOV092, Error: UNIQUE constraint failed: project_project.project_code

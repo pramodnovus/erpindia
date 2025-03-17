@@ -1,0 +1,619 @@
+id,project_code,name,cpi,clients,operation_select,project_type,other_cost,set_up_fee,tentative_end_date,tentative_start_date,project_assigned_to_teamlead,sample,total_achievement,remaining_interview,man_days,status,desabled
+768,055ath056,Italian Food Survey,42,Atheneum,true,CATI,null,0,false,false,,44,14,30,5,In Progress,true
+769,034ips035,ERP Accounting,75,Ipsos,true,CATI,null,300,false,false,,200,200,0,16,Completed,true
+770,034ips036,Pakistan IT Exports,90,Ipsos,true,CATI,null,500,false,false,,200,200,0,119.5,Completed,true
+771,031hay032,Law Firm Marketing Capability Research Study,57,Hayhurst Consultancy,true,CAWI,null,132,false,false,,200,200,0,88,Completed,true
+772,040pro041,Green Acres Mall Survey,30,Prodege,true,CATI,null,200,false,false,,200,200,0,31,Completed,true
+773,044qua045,B2B Industrial Survey,46,Qualtrics,true,CATI,null,200,false,false,,414,414,0,59.5,Completed,true
+774,047rti048,CACM Nearshoring Study Amongst MNEs ,66,RTI,true,CATI,null,200,false,false,,300,300,0,99,Completed,true
+775,052wer053,Metalworking DMs & Distributors,46,Werk Insights,true,CATI,null,200,false,false,,700,700,0,81,Completed,true
+776,052wer054,Contractors Survey,45,Werk Insights,true,CATI,null,200,false,false,,100,100,0,19,Completed,true
+777,034ips037,HORECA Segment Understanding Study,90,Ipsos,true,CATI,null,500,false,false,,440,440,0,67.5,Completed,true
+778,063emi064,BSASEG01 - Bridgestone Americas Segmentation,100,EMI,true,CATI,null,200,false,false,,17,17,0,6,Completed,true
+779,064glg065,Material Handling Survey,49,GLG,true,CATI,null,0,false,false,,87,87,0,14,Completed,true
+780,034ips038,Potential Investors Survey,90,Ipsos,true,CATI,null,500,false,false,,311,311,0,94.5,Completed,true
+781,041pur042,Multi Country B2B Leaders Survey,45,Pure Spectrum,true,CATI,null,200,false,false,,1000,1000,0,103.5,Completed,true
+782,049sma050,US Gardening Survey,49,Smart Connect Research,true,CATI,null,0,false,false,,75,75,0,19,Completed,true
+783,051sym052,SYM2400366 Ownership and Equity Software,45,Symmetric Sampling,true,CATI,null,200,false,false,,72,72,0,12,Completed,true
+784,052wer055,Fleet DMs,46,Werk Insights,true,CATI,null,200,false,false,,250,250,0,26.5,Completed,true
+785,064glg066,US Ed-Tech Survey,50,GLG,true,CATI,null,0,false,false,,38,38,0,38,Completed,true
+786,042pym043,Merchants and Acquirers Survey (March Wave),53,Pymnts,true,CATI,null,200,false,false,,150,150,0,53.5,Completed,true
+787,044qua046,Native American Adoption,32,Qualtrics,true,CATI,null,200,false,false,,400,400,0,112,Completed,true
+788,064glg067,Content Monetization Preferences,51,GLG,true,CATI,null,0,false,false,,6,6,0,6,Completed,true
+789,038oxf039,IBM Global Pulse Wave 4 SAP-specific Generative AI 2024 Survey,37,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,62,Completed,true
+790,064glg068,Material Handling Survey (Re-contact),5,GLG,true,CATI,null,0,false,false,,73,73,0,5,Completed,true
+791,047rti049,India Missing Investors,63,RTI,true,CATI,null,195,false,false,,300,300,0,75.5,Completed,true
+792,044qua047,Tech Board Members,48,Qualtrics,true,CATI,null,200,false,false,,15,15,0,2,Completed,true
+793,031hay033,Law Firm Social Media Channel Choice study,57,Hayhurst Consultancy,true,CATI,null,132,false,false,,100,100,0,46,Completed,true
+794,038oxf040,IBV Oracle HCM Survey,44,Oxford Economics,true,CATI,null,0,false,false,,1000,1000,0,85,Completed,true
+795,060col061,Quant Sentiment Survey,76,Coleman Parkes,true,CATI,null,198,false,false,,75,75,0,7,Completed,true
+796,061dig062,Logistics and Procurement Survey,40,Digital Research,true,CATI,null,200,false,false,,200,200,0,26,Completed,true
+797,064glg069,School Safety Survey,49,GLG,true,CATI,null,0,false,false,,44,44,0,12,Completed,true
+798,064glg070,Pharmacy Software Survey,51,GLG,true,CATI,null,0,false,false,,20,20,0,4,Completed,true
+799,060col062,Actuaries and underwriters in the US and UK,59,Coleman Parkes,true,CATI,null,329,false,false,,350,350,0,20,Completed,true
+800,051sym053,Builder Series 2024 (June Wave),43,Symmetric Sampling,true,CATI,null,200,false,false,,100,100,0,63,Completed,true
+801,062dig063,Data Strategy and Compliance Survey,42,Dig Insights,true,CATI,null,0,false,false,,51,51,0,13,Completed,true
+802,044qua048,VOC Web app research,44,Qualtrics,true,CATI,null,0,false,false,,200,200,0,58,Completed,true
+803,051sym054,Builder Series 2024 (July Wave),43,Symmetric Sampling,true,CATI,null,200,false,false,,100,100,0,15,Completed,true
+804,038oxf041,IBM Global Pulse Wave 5 SAP-Specific Generative AI 2024 Survey,37,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,18,Completed,true
+805,034ips039,UAE Business Stakeholders,90,Ipsos,true,CATI,null,500,false,false,,300,300,0,35,Completed,true
+806,038oxf042,US pulse survey wave 49 (Gen AI and asset management),37,Oxford Economics,true,CATI,null,0,false,false,,100,100,0,6,Completed,true
+807,034ips040,Corporate Brand Identity,135,Ipsos,true,CATI,null,250,false,false,,50,50,0,76.5,Completed,true
+808,064glg071,Youth Sports Software Survey,48,GLG,true,CATI,null,0,false,false,,62,62,0,14,Completed,true
+809,064glg072,Recurring Revenue Billing Platforms Survey,51,GLG,true,CATI,null,0,false,false,,35,35,0,11.5,Completed,true
+810,029glo030,Hotels in Mexico,46,Global Data,true,CATI,null,0,false,false,,52,52,0,14,Completed,true
+811,051sym055,Builder Series 2024 (August Wave),43,Symmetric Sampling,true,CATI,null,200,false,false,,100,100,0,15,Completed,true
+812,042pym044,bankers sample,64,Pymnts,true,CAWI,null,200,false,false,,45,45,0,7,Completed,true
+813,044qua049,ExPeople2025 (People Analytics Survey),45,Qualtrics,true,CAWI,null,200,false,false,,30,30,0,4,Completed,true
+814,046rot047,Auto Repair Garage Operators Survey,40,Roth.MKM,true,CAWI,null,200,false,false,,200,200,0,20.5,Completed,true
+815,042pym045,CAIO Instrument August 2024,56,Pymnts,true,CAWI,null,200,false,false,,60,60,0,7.25,Completed,true
+816,046rot048,NEW B2B Project opportunity: Retail buyers/assista,45,Roth.MKM,true,CAWI,null,0,false,false,,50,null,21,12,In Progress,true
+817,046rot049,New project - PMIS,44,Roth.MKM,true,CATI,null,0,false,false,,100,100,0,11,Completed,true
+818,051sym056,SYM2401828 Property Owners/Managers 1,44,Symmetric Sampling,true,CATI,null,200,false,false,,150,94,56,14.5,In Progress,true
+819,061dig063,"Architects, Designers, and Consultants Survey (Int",46,Digital Research,true,CATI,null,0,false,false,,50,50,0,6,Completed,true
+820,046rot050,NEW B2B project opportunity....tech related,45,Roth.MKM,true,CATI,null,200,false,false,,100,48,52,7,Completed,true
+821,033inn034,Data Analytics as a Service,48,Innovate MR,true,CATI,null,200,false,false,,100,100,0,26,Completed,true
+822,055ath057,MRO Pneumatics & Hydraulics,44,Atheneum,true,CATI,null,0,false,false,,2,2,0,9,Completed,true
+823,046rot051,Marketing platforms/marketing cloud solutions B2B in US,46,Roth.MKM,true,CATI,null,200,false,false,,79,79,0,12,Completed,true
+824,049sma051,Installers and Specifiers,44.32,Smart Connect Research,true,CATI,null,150,false,false,,184,184,0,35.5,Completed,true
+825,042pym046,Corporate Sender Instruments (Wave 2),60,Pymnts,true,CATI,null,200,false,false,,200,200,0,40,Completed,true
+826,057bea058,Procurement in Electronics Comapnies Study,52,Beacon Tech,true,CATI,null,200,false,false,,130,130,0,14,Completed,true
+827,032hex033,Packaged Beverage Survey,39.29,Hex Advisory,true,CATI,null,200,false,false,,100,100,0,47,Completed,true
+828,059cla060,LSV,35,Clarity Research,true,CATI,null,200,false,false,,825,825,0,199.5,Completed,true
+829,046rot052,Upwork Wave 7,26,Roth.MKM,true,CATI,null,250,false,false,,300,300,0,10,Completed,true
+830,044qua050,Climate Risk Survey,45,Qualtrics,true,CATI,null,200,false,false,,42,42,0,8.5,Completed,true
+831,039pla040,Enterprise IT Recruit,50,Plan Beyond,true,CATI,null,200,false,false,,400,400,0,69.5,Completed,true
+832,042pym047,CFO Monitor,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,21.5,Completed,true
+833,057bea059,ASME Mechanical Engineering 2024 and Beyond,52,Beacon Tech,true,CATI,null,200,false,false,,500,500,0,74,Completed,true
+834,046rot053,Outdoor Recreation Study (Wave-3),42,Roth.MKM,true,CATI,null,250,false,false,,100,100,0,19,Completed,true
+835,036mor037,VC Workers,53,Morning Consult,true,CATI,null,200,false,false,,50,50,0,12.5,Completed,true
+836,038oxf043,Finance and Internal Customers Survey Wave 3,115,Oxford Economics,true,CATI,null,0,false,false,,320,320,0,18.5,Completed,true
+837,042pym048,CFO Monitor - Phase 2,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,5.5,Completed,true
+838,044qua051,AirborneContaminants,46,Qualtrics,true,CATI,null,200,false,false,,200,200,0,39.5,Completed,true
+839,042pym049,Embeded Finance Products',58,Pymnts,true,CATI,null,200,false,false,,361,361,0,111,Completed,true
+840,064glg073,Water Procurement,48.5,GLG,true,CATI,null,0,false,false,,72,72,0,18.5,Completed,true
+841,042pym050,Chief Financial Officers Survey (CAIO Instrument),56,Pymnts,true,CATI,null,200,false,false,,60,60,0,9.5,Completed,true
+842,052wer056,Deck Builders,46,Werk Insights,true,CATI,null,200,false,false,,500,500,0,88,Completed,true
+843,044qua052,Legal Trends,42,Qualtrics,true,CATI,null,200,false,false,,50,50,0,10.5,Completed,true
+844,064glg074,Wire Transfers,50,GLG,true,CATI,null,200,false,false,,43,43,0,3.5,Completed,true
+845,056b2b057,Cost for Multi-Country Brand Tracking Research,85.31,B2B International,true,CATI,null,500,false,false,,645,645,0,165.5,Completed,true
+846,060col063,Tech Index Study,40.81,Coleman Parkes,true,CATI,null,263,false,false,,1200,1200,0,62.5,Completed,true
+847,046rot054,New B2B project opportunity: Zoominfo (SaaS company),40,Roth.MKM,true,CATI,null,200,false,false,,150,150,0,25,Completed,true
+848,046rot055,MDC Voice of Customer (Interior Surface Distributors Survey),42,Roth.MKM,true,CATI,null,200,false,false,,152,152,0,44.5,Completed,true
+849,033inn035,Travelers Survey,34,Innovate MR,true,CATI,null,200,false,false,,56,56,0,8,Completed,true
+850,042pym051,CFO Monitor Phase 3,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,10,Completed,true
+851,042pym052,CAIO instrument April 2024,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,15,Completed,true
+852,056b2b058,Understanding & Segmenting The Fleet Manager Universe In UK & Germany,174.58,B2B International,true,CATI,null,395,false,false,,19,19,0,20,Completed,true
+853,044qua053,Cattle Farmers Survey,38,Qualtrics,true,CATI,null,200,false,false,,303,303,0,91,Completed,true
+854,046rot056,Voice of the Customer Survey (Quickparts),42,Roth.MKM,true,CATI,null,200,false,false,,75,2,0,74,Completed,true
+855,057bea060,Microchip Procurement study - Phase 2,52,Beacon Tech,true,CATI,null,200,false,false,,130,130,0,40,Completed,true
+856,046rot057,Digital Brand Managers at larger enterprises,45,Roth.MKM,true,CATI,null,200,false,false,,100,100,0,30,Completed,true
+857,044qua054,Highland Solutions,45,Qualtrics,true,CATI,null,200,false,false,,203,203,0,30,Completed,true
+858,046rot058,Residential Pool Designer Builder and Service Provider Survey (Wave 3),42,Roth.MKM,true,CATI,null,200,false,false,,100,100,0,12.5,Completed,true
+859,064glg075,Auto Dealer Survey Feasibility,50,GLG,true,CATI,null,0,false,false,,32,32,0,12,Completed,true
+860,038oxf044,LNRS Cost of Compliance survey,110,Oxford Economics,true,CATI,null,0,false,false,,250,250,0,22,Completed,true
+861,046rot059,Roofing Businesses Survey,45,Roth.MKM,true,CATI,null,200,false,false,,200,200,0,58,Completed,true
+862,046rot060,Wayfair Third-Party Merchants Survey,42,Roth.MKM,true,CATI,null,200,false,false,,100,100,0,18.5,Completed,true
+863,042pym053,CFO Monitor Phase 4,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,9.5,Completed,true
+864,046rot061,Food Industry DMs Survey,45,Roth.MKM,true,CATI,null,200,false,false,,52,52,0,12,Completed,true
+865,042pym054,CAIO instrument May 2024,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,9,Completed,true
+866,046rot062,Facilities DMs Survey,43.5,Roth.MKM,true,CATI,null,300,false,false,,200,200,0,26.5,Completed,true
+867,046rot063,New edu1on/trade school survey,46,Roth.MKM,true,CATI,null,200,false,false,,50,50,0,10,Completed,true
+868,064glg076,Identity Solution Insights,52,GLG,true,CATI,null,0,false,false,,32,32,0,9,Completed,true
+869,042pym055,Enterprise Treasurer Study,56,Pymnts,true,CATI,null,200,false,false,,500,500,0,108,Completed,true
+870,046rot064,Childcare Facilities Survey,44,Roth.MKM,true,CATI,null,200,false,false,,125,125,0,22,Completed,true
+871,064glg077,Life Sciences/Services Survey Request,49.3,GLG,true,CATI,null,200,false,false,,3,3,0,7,Completed,true
+872,044qua055,Plumbers Survey,44,Qualtrics,true,CATI,null,200,false,false,,100,100,0,30.5,Completed,true
+873,044qua056,Legal Sector Survey,44,Qualtrics,true,CATI,null,200,false,false,,50,50,0,6.5,Completed,true
+874,046rot065,Fleet Business Survey,40,Roth.MKM,true,CATI,null,0,false,false,,200,200,0,35.5,Completed,true
+875,044qua057,Cattle Farmers (additional),38,Qualtrics,true,CATI,null,0,false,false,,55,55,0,21.5,Completed,true
+876,046rot066,Print on Demand (POD),40,Roth.MKM,true,CATI,null,0,false,false,,100,100,0,72.5,Completed,true
+877,059cla061,EU/Japan Motorcycle Research,40,Clarity Research,true,CATI,null,200,false,false,,400,400,0,78.5,Completed,true
+878,046rot067,Med spas U.S. ,42,Roth.MKM,true,CATI,null,0,false,false,,100,100,0,20,Completed,true
+879,042pym056,Chief Financial Officers Survey (CAIO Instrument)  June 2024 Wave,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,8,Completed,true
+880,042pym057,CFO Monitor - Phase 5,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,8.5,Completed,true
+881,046rot068,Appliance Parts Distributors Survey,40,Roth.MKM,true,CATI,null,0,false,false,,250,250,0,36.5,Completed,true
+882,044qua058,Sustainability Survey,49,Qualtrics,true,CATI,null,200,false,false,,150,150,0,14.5,Completed,true
+883,037out038,Indiana Youth and Adult Edu1on study,20,Outsized Insights,true,CATI,null,200,false,false,,791,791,0,144,Completed,true
+884,044qua059,Orthodontist Pricing study,40,Qualtrics,true,CATI,null,200,false,false,,250,250,0,38,Completed,true
+885,042pym058,Financial Institutions Study,56,Pymnts,true,CATI,null,200,false,false,,200,200,0,36,Completed,true
+886,046rot069,Pest Control Business,44,Roth.MKM,true,CATI,null,200,false,false,,100,100,0,39.5,Completed,true
+887,046rot070,Live Events Survey,44,Roth.MKM,true,CATI,null,200,false,false,,50,50,0,11.5,Completed,true
+888,042pym059,Corporate Sender Instruments (Wave 3),60,Pymnts,true,CATI,null,200,false,false,,200,200,0,30.75,Completed,true
+889,053zei054,Amazon CTXR Survey,42,Zeitgeistresearch,true,CATI,null,200,false,false,,300,300,0,67,Completed,true
+890,038oxf045,Tourist Attraction Wave 2,39.75,Oxford Economics,true,CATI,null,0,false,false,,150,150,0,16.5,Completed,true
+891,046rot071,PMIS,44,Roth.MKM,true,CATI,null,0,false,false,,100,100,0,14.25,Completed,true
+892,046rot072,Digital Brand Managers at larger enterprises,45,Roth.MKM,true,CATI,null,200,false,false,,100,100,0,31.5,Completed,true
+893,042pym060,CAIO Instruments July wave,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,8,Completed,true
+894,046rot073,Upwork Business July 2024,32,Roth.MKM,true,CATI,null,250,false,false,,100,100,0,10,Completed,true
+895,038oxf046,CEO Brand Awareness Wave #47,36,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,39,Completed,true
+896,042pym061,CFO Monitor - Phase 6,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,7,Completed,true
+897,044qua060,HomeValue,35,Qualtrics,true,CATI,null,200,false,false,,150,150,0,9.5,Completed,true
+898,046rot074,Edu1on/ Mainly K-12 schools,44,Roth.MKM,true,CATI,null,200,false,false,,50,50,0,6.5,Completed,true
+899,046rot075,Phantom,38,Roth.MKM,true,CATI,null,0,false,false,,400,400,0,71,Completed,true
+900,044qua061,HR Leaders Tabs,44,Qualtrics,true,CATI,null,200,false,false,,300,300,0,61,Completed,true
+901,038oxf047,IBM US Pulse Wave 50 Generative AI and Tech Spending (2024 Re-Field) Survey,37,Oxford Economics,true,CATI,null,0,false,false,,100,100,0,18,Completed,true
+902,042pym062,CFO Monitor-Phase 7,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,9,Completed,true
+903,038oxf048,Global pulse wave 6,37,Oxford Economics,true,CATI,null,0,false,false,,400,400,0,35.5,Completed,true
+904,038oxf049,IBM Telecommuni1on 2025 Study,46,Oxford Economics,true,CATI,null,0,false,false,,750,750,0,101,Completed,true
+905,042pym063,Chief Financial Officers Survey (CAIO Instrument)  August 2024 Wave,56,Pymnts,true,CATI,null,200,false,false,,60,60,0,7.75,Completed,true
+906,044qua062,People Analytics Survey,45,Qualtrics,true,CATI,null,200,false,false,,30,30,0,4.25,Completed,true
+907,046rot076,B2B Marketing platforms/ marketing cloud solutions,43,Roth.MKM,true,CATI,null,0,false,false,,150,150,0,30.25,Completed,true
+908,042pym064,Digital Lending Readiness Survey,64,Pymnts,true,CATI,null,200,false,false,,45,45,0,7.5,Completed,true
+909,046rot077,Auto Repair Garage Operators Survey ,40,Roth.MKM,true,CATI,null,200,false,false,,200,200,0,22,Completed,true
+910,046rot078,Roofing Business Survey (August Wave),45,Roth.MKM,true,CATI,null,200,false,false,,166,166,0,34,Completed,true
+911,061dig064,Architects and Designers Survey,46,Digital Research,true,CATI,null,200,false,false,,52,52,0,6.5,Completed,true
+912,038oxf050,IBM US Pulse Wave 52 Generative AI – CMO Survey (Part A),37,Oxford Economics,true,CATI,null,0,false,false,,100,100,0,4.75,Completed,true
+913,038oxf051,IBM US Pulse Wave 52 Generative AI – CMO Survey (Part B),37,Oxford Economics,true,CATI,null,0,false,false,,100,100,0,5,Completed,true
+914,046rot079,Tech Related Survey,45,Roth.MKM,true,CATI,null,200,false,false,,52,52,0,9.5,Completed,true
+915,046rot080,Cinema Adve47sing,46,Roth.MKM,true,CATI,null,200,false,false,,45,45,0,5.5,Completed,true
+916,064glg078,S63conductors Supply Chain III,56,GLG,true,CATI,null,0,false,false,,12,12,0,1.25,Completed,true
+917,064glg079,Price CheX: Industry Cameras << 602993,48.5888888888889,GLG,true,CATI,null,0,false,false,,90,90,0,12.75,Completed,true
+918,064glg080,Adve47sing in Mobile Gaming,48.7,GLG,true,CATI,null,0,false,false,,20,20,0,3.25,Completed,true
+919,064glg081,eSentire Customers 1,51,GLG,true,CATI,null,0,false,false,,6,6,0,1.25,Completed,true
+920,064glg082,Food Mftg Survey Request,53,GLG,true,CATI,null,0,false,false,,88,88,0,14,Completed,true
+921,064glg083,Contact Center/Unified Comms,49,GLG,true,CATI,null,0,false,false,,77,77,0,11.25,Completed,true
+922,064glg084,Acid-Etched Glass,49.36,GLG,true,CATI,null,0,false,false,,100,100,0,15.75,Completed,true
+923,064glg085,Enterprise Service Management Software,48.6666666666667,GLG,true,CATI,null,0,false,false,,3,3,0,1.5,Completed,true
+924,064glg086,Chief Sustainability Officers,51,GLG,true,CATI,null,0,false,false,,16,16,0,2.25,Completed,true
+925,064glg087,PT Staffing Trends,49.25,GLG,true,CATI,null,0,false,false,,4,4,0,1.75,Completed,true
+926,064glg088,Texas Finance DMs,51.6222222222222,GLG,true,CATI,null,0,false,false,,45,45,0,6.75,Completed,true
+927,064glg089,Agricultural Technology,49,GLG,true,CATI,null,0,false,false,,14,14,0,2,Completed,true
+928,064glg090,buyers of bucket trucks,49.5454545454546,GLG,true,CATI,null,0,false,false,,22,22,0,3.25,Completed,true
+929,064glg091,Network Survey- Resins Furniture Trends,49.09375,GLG,true,CATI,null,0,false,false,,64,64,0,9,Completed,true
+930,064glg092,The Future of Groceries 2nd Annual Survey (Survey,50,GLG,true,CATI,null,0,false,false,,78,78,0,10,Completed,true
+931,064glg093,Identity Solution Insights,49.71875,GLG,true,CATI,null,0,false,false,,32,32,0,4.5,Completed,true
+932,064glg094,Landscaping Market Trends,48,GLG,true,CATI,null,0,false,false,,23,23,0,6,Completed,true
+933,064glg095,Automotive Dealers,49.0833333333333,GLG,true,CATI,null,0,false,false,,24,24,0,3.25,Completed,true
+934,064glg096,Commercial and Industrial Utility Customer Study,49,GLG,true,CATI,null,0,false,false,,11,11,0,1.75,Completed,true
+935,064glg097,Job market trend in Japan,48,GLG,true,CATI,null,0,false,false,,8,8,0,1.25,Completed,true
+936,064glg098,Research & Insights Survey,49,GLG,true,CATI,null,0,false,false,,65,65,0,8.25,Completed,true
+937,064glg099,SentinelOne Partners,48.6428571428572,GLG,true,CATI,null,0,false,false,,14,14,0,2.5,Completed,true
+938,064glg100,Pharmacy ERP Software Solutions,51,GLG,true,CATI,null,0,false,false,,20,20,0,4,Completed,true
+939,064glg101,Network Survey- Waste Management,48.8809523809524,GLG,true,CATI,null,0,false,false,,42,42,0,6.25,Completed,true
+940,064glg102,Independent Chainsaw Retailers,49.36,GLG,true,CATI,null,0,false,false,,50,50,0,6,Completed,true
+941,064glg103,Fashion E-Commerce (July 2024),58,GLG,true,CATI,null,0,false,false,,30,30,0,5,Completed,true
+942,064glg104,IT Resellers 2024 (July 2024),54,GLG,true,CATI,null,0,false,false,,6,6,0,1,Completed,true
+943,064glg105,CIAM Experts,49.0769230769231,GLG,true,CATI,null,0,false,false,,26,26,0,4.5,Completed,true
+944,064glg106,Tech Grown Intl Survey,50.2,GLG,true,CATI,null,0,false,false,,5,5,0,0.75,Completed,true
+945,064glg107,Marketing Roles/Investment Survey,47.5714285714286,GLG,true,CATI,null,0,false,false,,35,35,0,4.5,Completed,true
+946,064glg108,IBM Platinum Partners (July 2024),49.4545454545455,GLG,true,CATI,null,0,false,false,,22,22,0,3.25,Completed,true
+947,064glg109,Aviation Repair and Maintenance survey Wave# 8,56,GLG,true,CATI,null,0,false,false,,52,52,0,10.25,Completed,true
+948,064glg110,Pest Control Trends April 2024 (Wave 3),49.84,GLG,true,CATI,null,0,false,false,,50,50,0,8,Completed,true
+949,064glg111,Locomotives and Railcar Survey - Re-run (July 2024,54,GLG,true,CATI,null,0,false,false,,25,25,0,3.25,Completed,true
+950,064glg112,US Insurance Carriers,48.6904761904762,GLG,true,CATI,null,0,false,false,,42,42,0,6.25,Completed,true
+951,064glg113,Real Estate Brokers,48,GLG,true,CATI,null,0,false,false,,70,70,0,8.75,Completed,true
+952,064glg114,Restaurant Benefits Managers Survey,49,GLG,true,CATI,null,0,false,false,,54,54,0,6.75,Completed,true
+953,064glg115,European Biogas Industry,49.2173913043478,GLG,true,CATI,null,0,false,false,,46,46,0,6,Completed,true
+954,064glg116,OEM & System Integrator Study - PSF TEAM,40,GLG,true,CATI,null,0,false,false,,267,267,0,42.75,Completed,true
+955,064glg117,Audit Management & Ce47fi1on Software,40,GLG,true,CATI,null,0,false,false,,50,50,0,7.5,Completed,true
+956,064glg118,US Power Finance DMs,48.9054054054054,GLG,true,CATI,null,0,false,false,,74,74,0,11.25,Completed,true
+957,064glg119,Voice of Customer Survey - 603815,48.6842105263158,GLG,true,CATI,null,0,false,false,,38,38,0,4.75,Completed,true
+958,064glg120,Network Survey - Hospital Management Software,52.3695652173913,GLG,true,CATI,null,0,false,false,,46,46,0,6,Completed,true
+959,064glg121,Customers of HVAC/Cooling Distribution - June 2024,45.9473684210526,GLG,true,CATI,null,0,false,false,,19,19,0,2.75,Completed,true
+960,064glg122,Network Survey- Heat Pump Market II,48.5833333333333,GLG,true,CATI,null,0,false,false,,60,60,0,8,Completed,true
+961,064glg123,Fractional Aircraft Owners Survey Request,42,GLG,true,CATI,null,0,false,false,,129,129,0,20.5,Completed,true
+962,064glg124,Payor Survey-Unimrkt,51,GLG,true,CATI,null,0,false,false,,5,5,0,0.75,Completed,true
+963,064glg125,Understanding Interest in Health Hardware Benefit,48.2222222222222,GLG,true,CATI,null,0,false,false,,27,27,0,4.5,Completed,true
+964,064glg126,Software Space - Jun 24 (Survey #),51.78125,GLG,true,CATI,null,0,false,false,,64,64,0,8.75,Completed,true
+965,064glg127,Legal Software,47.3461538461538,GLG,true,CATI,null,0,false,false,,26,26,0,4,Completed,true
+966,064glg128,Pool Dealers (May 2024),52,GLG,true,CATI,null,0,false,false,,45,45,0,6.25,Completed,true
+967,064glg129,Generative AI Value (Survey #603910),49.4102564102564,GLG,true,CATI,null,0,false,false,,39,39,0,5.25,Completed,true
+968,064glg130,Feasibility Estimate for Value Added Reseller Stud,49,GLG,true,CATI,null,0,false,false,,10,10,0,1.25,Completed,true
+969,064glg131,E-Commerce Merchant Sales Expansion Trends,51,GLG,true,CATI,null,0,false,false,,40,40,0,5,Completed,true
+970,064glg132,Roofing Market Trends,48,GLG,true,CATI,null,0,false,false,,100,100,0,10.25,Completed,true
+971,064glg133,Legal Practice Management Solutions,49.2909090909091,GLG,true,CATI,null,0,false,false,,55,55,0,8.25,Completed,true
+972,064glg134,"Ce47port, Ce47PREP, and PVTCs",48.44,GLG,true,CATI,null,0,false,false,,25,25,0,3.75,Completed,true
+973,064glg135,Logistics Survey - June 24 (Survey #),51.1851851851852,GLG,true,CATI,null,0,false,false,,54,54,0,7.75,Completed,true
+974,064glg136,Commercial/Business Digital Banking Software-Unimr,49,GLG,true,CATI,null,0,false,false,,17,17,0,2.5,Completed,true
+975,064glg137,ERP Users Poland (Survey #) May 2024,51,GLG,true,CATI,null,0,false,false,,12,12,0,1.25,Completed,true
+976,064glg138,Financial Institutions Software,49,GLG,true,CATI,null,0,false,false,,17,17,0,2.5,Completed,true
+977,064glg139,Accounting and Tax Firms ERP - PL,51,GLG,true,CATI,null,0,false,false,,13,13,0,1.75,Completed,true
+978,064glg140,POS Home Improvement,49.25,GLG,true,CATI,null,0,false,false,,16,16,0,2.25,Completed,true
+979,064glg141,Roofing-Unimrkt,48,GLG,true,CATI,null,0,false,false,,54,54,0,8.5,Completed,true
+980,064glg142,Warehouse Trends,49.0714285714286,GLG,true,CATI,null,0,false,false,,28,28,0,4.5,Completed,true
+981,064glg143,Construction Management Software - Real Estate Ass,48.7142857142857,GLG,true,CATI,null,0,false,false,,28,28,0,6.25,Completed,true
+982,064glg144,Network Distributors and Customers (July 2024),56,GLG,true,CATI,null,0,false,false,,63,63,0,8.75,Completed,true
+983,064glg145,Time Synchronization Research (#604706),48.9354838709677,GLG,true,CATI,null,0,false,false,,31,31,0,4.5,Completed,true
+984,064glg146,SME Tax Advisors and accountants,48,GLG,true,CATI,null,0,false,false,,43,43,0,4.25,Completed,true
+985,064glg147,SPECT Market Assessment 2024: 64 Feasibility Requ,54,GLG,true,CATI,null,0,false,false,,91,91,0,13.25,Completed,true
+986,064glg148,Project Bid- Advisory and Consulting Survey,51.28,GLG,true,CATI,null,0,false,false,,50,50,0,7.75,Completed,true
+987,064glg149,S63conductor Survey June 2024),58,GLG,true,CATI,null,0,false,false,,35,35,0,4.25,Completed,true
+988,064glg150,Air Pollution Control Solutions - 2 (Survey #60455,47.2307692307692,GLG,true,CATI,null,0,false,false,,39,39,0,6.25,Completed,true
+989,064glg151,Customers of HVAC/Cooling Distribution Add on samp,45.9473684210526,GLG,true,CATI,null,0,false,false,,19,19,0,2.75,Completed,true
+990,064glg152,Independent Restaurant Owners in US - Survey Reque,49.1428571428571,GLG,true,CATI,null,0,false,false,,42,42,0,7.25,Completed,true
+991,064glg153,"Testing, Inspection and Ce47fi1on",52.0806451612903,GLG,true,CATI,null,0,false,false,,62,62,0,7.75,Completed,true
+992,064glg154,Building Managed Service Providers,49,GLG,true,CATI,null,0,false,false,,44,44,0,6,Completed,true
+993,064glg155,64 - Unimrkt - Homebuilders,48.3529411764706,GLG,true,CATI,null,0,false,false,,17,17,0,2,Completed,true
+994,064glg156,Impact on digital finance Survey,51,GLG,true,CATI,null,0,false,false,,130,130,0,24,Completed,true
+995,064glg157,Elevator Procurement in China,49,GLG,true,CATI,null,0,false,false,,17,17,0,3,Completed,true
+996,064glg158,Pest Control Industry,56.5316455696203,GLG,true,CATI,null,0,false,false,,79,79,0,14,Completed,true
+997,064glg159,Provider Collaborator,49.8421052631579,GLG,true,CATI,null,0,false,false,,19,19,0,4.5,Completed,true
+998,064glg160,PC-VAR wave 2,54,GLG,true,CATI,null,0,false,false,,28,28,0,4.5,Completed,true
+999,064glg161,Travel Agencies- Follow up exercise,10,GLG,true,CATI,null,0,false,false,,9,9,0,1.5,Completed,true
+1000,064glg162,Pest Control Trends,49.68,GLG,true,CATI,null,0,false,false,,50,50,0,7,Completed,true
+1001,064glg163,In-house counsel survey,51,GLG,true,CATI,null,0,false,false,,151,151,0,23.25,Completed,true
+1002,064glg164,IT Resellers 2024,54,GLG,true,CATI,null,0,false,false,,6,6,0,1.25,Completed,true
+1003,064glg165,Hydraulic / Pneumatic component market,40,GLG,true,CATI,null,0,false,false,,40,40,0,8.25,Completed,true
+1004,064glg166,Acoustic ceiling and wall solutions,50,GLG,true,CATI,null,0,false,false,,40,40,0,6.75,Completed,true
+1005,064glg167,Data and Information Insights,53,GLG,true,CATI,null,0,false,false,,20,20,0,5,Completed,true
+1006,064glg168,State of AI survey,49.3766233766234,GLG,true,CATI,null,0,false,false,,462,462,0,67,Completed,true
+1007,064glg169,Locomotives and Railcar Survey,54,GLG,true,CATI,null,0,false,false,,25,25,0,4.75,Completed,true
+1008,064glg170,Payers Survey,56,GLG,true,CATI,null,0,false,false,,19,19,0,3.5,Completed,true
+1009,064glg171,Cruise Operators II,49.0571428571429,GLG,true,CATI,null,0,false,false,,70,70,0,11.25,Completed,true
+1010,064glg172,Zebra Resellers,50.0344827586207,GLG,true,CATI,null,0,false,false,,29,29,0,5.5,Completed,true
+1011,064glg173,PTC Resellers,50.0238095238095,GLG,true,CATI,null,0,false,false,,42,42,0,8.25,Completed,true
+1012,064glg174,Steel Industry IV,49.9230769230769,GLG,true,CATI,null,0,false,false,,26,26,0,5,Completed,true
+1013,064glg175,Five9  Resellers,49.9722222222222,GLG,true,CATI,null,0,false,false,,36,36,0,5.75,Completed,true
+1014,064glg176,MSFT Azure Resellers January 24,52,GLG,true,CATI,null,0,false,false,,21,21,0,3.25,Completed,true
+1015,064glg177,Biofuels IV,49.2666666666667,GLG,true,CATI,null,0,false,false,,75,75,0,11.75,Completed,true
+1016,064glg178,Healthcare IT,51,GLG,true,CATI,null,200,false,false,,1,1,0,0.5,Completed,true
+1017,064glg179,Powersports Study (January Wave),52,GLG,true,CATI,null,0,false,false,,39,39,0,6.5,Completed,true
+1018,064glg180,Aviation Repair and Maintenance survey,56,GLG,true,CATI,null,0,false,false,,62,62,0,10.5,Completed,true
+1019,064glg181,Healthcare Vendor Relationships,49.1666666666667,GLG,true,CATI,null,0,false,false,,12,12,0,2.5,Completed,true
+1020,064glg182,Neuromodulation Site of Service WTP,54,GLG,true,CATI,null,0,false,false,,44,44,0,7.25,Completed,true
+1021,064glg183,Datadog Resellers,52,GLG,true,CATI,null,0,false,false,,12,12,0,2.25,Completed,true
+1022,064glg184,Paint Contractor Trends,50.4666666666667,GLG,true,CATI,null,0,false,false,,30,30,0,5,Completed,true
+1023,064glg185,Salon Software Usage,48.8571428571429,GLG,true,CATI,null,0,false,false,,21,21,0,4.75,Completed,true
+1024,064glg186,ENTERPRISE SOFTWARE SURVEY (JAN 2024),68,GLG,true,CATI,null,0,false,false,,35,35,0,5,Completed,true
+1025,064glg187,ESG - Oil & Defence Study,56,GLG,true,CATI,null,0,false,false,,90,90,0,16.5,Completed,true
+1026,064glg188,Mining Equipment,52.5652173913044,GLG,true,CATI,null,0,false,false,,46,46,0,8.25,Completed,true
+1027,064glg189,Perspectives on Responsible AI,48,GLG,true,CATI,null,0,false,false,,11,11,0,2.5,Completed,true
+1028,064glg190,Marble and Tile,52,GLG,true,CATI,null,0,false,false,,50,50,0,8,Completed,true
+1029,064glg191,Fitness Center Software Landscape,49.8,GLG,true,CATI,null,0,false,false,,5,5,0,0.75,Completed,true
+1030,064glg192,Revenue Management Software Customer Trends,49.6363636363636,GLG,true,CATI,null,0,false,false,,22,22,0,4,Completed,true
+1031,064glg193,Software Resellers(Monday.com),49.2222222222222,GLG,true,CATI,null,0,false,false,,18,18,0,2.5,Completed,true
+1032,064glg194,Software Resellers(Parametric Tech),49.3478260869565,GLG,true,CATI,null,0,false,false,,23,23,0,1.5,Completed,true
+1033,064glg195,Legal Services (Follow up study),15,GLG,true,CATI,null,0,false,false,,12,12,0,2.25,Completed,true
+1034,064glg196,Infrastructure Management Spend,49,GLG,true,CATI,null,0,false,false,,9,9,0,1.25,Completed,true
+1035,064glg197,Network Distributors and Customers,56,GLG,true,CATI,null,0,false,false,,71,71,0,12.25,Completed,true
+1036,064glg198,Real estate survey,53,GLG,true,CATI,null,0,false,false,,76,76,0,13.5,Completed,true
+1037,064glg199,FinOps Database Survey & Public Cloud Services Survey,54,GLG,true,CATI,null,0,false,false,,9,9,0,1.5,Completed,true
+1038,064glg200,Solar Panel Distribution / Installers,48,GLG,true,CATI,null,0,false,false,,36,36,0,6,Completed,true
+1039,064glg201,Compliance Software,54,GLG,true,CATI,null,0,false,false,,18,18,0,4,Completed,true
+1040,064glg202,LexisNexis Westlaw,48,GLG,true,CATI,null,0,false,false,,27,27,0,5,Completed,true
+1041,064glg203,Spanish Students,42,GLG,true,CATI,null,0,false,false,,177,177,0,22.25,Completed,true
+1042,064glg204,Order Fulfillment-Follow up,15,GLG,true,CATI,null,0,false,false,,12,12,0,1.5,Completed,true
+1043,064glg205,Order Fulfillment Solutions,49.1538461538462,GLG,true,CATI,null,0,false,false,,39,39,0,6.25,Completed,true
+1044,064glg206,Rodenticides,52.0625,GLG,true,CATI,null,0,false,false,,32,32,0,5.5,Completed,true
+1045,064glg207,Utility-Scale Renewable Developers,51,GLG,true,CATI,null,0,false,false,,15,15,0,2.5,Completed,true
+1046,064glg208,Hydraulic / Pneumatic component market,51.4347826086957,GLG,true,CATI,null,0,false,false,,23,23,0,4.5,Completed,true
+1047,064glg209,Telecommuni1on Industry,40,GLG,true,CATI,null,0,false,false,,15,15,0,2.25,Completed,true
+1048,064glg210,EU Merchants,49.7857142857143,GLG,true,CATI,null,0,false,false,,28,28,0,5.5,Completed,true
+1049,064glg211,Pharma Corporate and Government Affairs,49.8,GLG,true,CATI,null,0,false,false,,15,15,0,2,Completed,true
+1050,064glg212,Fashion E-Commerce,58,GLG,true,CATI,null,0,false,false,,37,37,0,6,Completed,true
+1051,064glg213,Financial Inisghts in Healthcare,51,GLG,true,CATI,null,0,false,false,,29,29,0,6,Completed,true
+1052,064glg214,Auto Sensor Customers,48.84,GLG,true,CATI,null,0,false,false,,50,50,0,10,Completed,true
+1053,064glg215,MES Solutions,48.92,GLG,true,CATI,null,0,false,false,,25,25,0,4,Completed,true
+1054,064glg216,NICE Partner Trends,48.7941176470588,GLG,true,CATI,null,0,false,false,,34,34,0,5.5,Completed,true
+1055,064glg217,Greek ERP Study - Wave 2,56,GLG,true,CATI,null,0,false,false,,22,22,0,3.5,Completed,true
+1056,064glg218,Mining Survey,49,GLG,true,CATI,null,0,false,false,,12,12,0,2,Completed,true
+1057,064glg219,European care homes (Wave 3),52,GLG,true,CATI,null,0,false,false,,34,34,0,4.75,Completed,true
+1058,064glg220,Luxury Watch Marketplace,49.1470588235294,GLG,true,CATI,null,0,false,false,,102,102,0,16.25,Completed,true
+1059,064glg221,Flexographic Printing Customers,49.0246913580247,GLG,true,CATI,null,0,false,false,,81,81,0,12.75,Completed,true
+1060,064glg222,SNOW Resellers,49.7692307692308,GLG,true,CATI,null,0,false,false,,13,13,0,2.25,Completed,true
+1061,064glg223,"Solution market for forest, park and garden care",50,GLG,true,CATI,null,0,false,false,,40,40,0,5,Completed,true
+1062,064glg224,"Solution market for forest, park and garden care - New Angle",40,GLG,true,CATI,null,0,false,false,,49,49,0,8,Completed,true
+1063,064glg225,Enterprise Content Management software,53,GLG,true,CATI,null,0,false,false,,32,32,0,5.25,Completed,true
+1064,064glg226,Industrial motors and drives,49.5555555555556,GLG,true,CATI,null,0,false,false,,18,18,0,2.5,Completed,true
+1065,064glg227,SMB Integrated Software Survey,49.625,GLG,true,CATI,null,0,false,false,,16,16,0,3,Completed,true
+1066,064glg228,Brazilian IFA,48,GLG,true,CATI,null,0,false,false,,50,50,0,7.75,Completed,true
+1067,064glg229,Patient Code of Conduct Benchmarking,49,GLG,true,CATI,null,0,false,false,,26,26,0,7,Completed,true
+1068,064glg230,General contractors C-Suite Survey,51,GLG,true,CATI,null,0,false,false,,74,74,0,13,Completed,true
+1069,064glg231,ESG Data Platforms,49.2,GLG,true,CATI,null,0,false,false,,40,40,0,6.5,Completed,true
+1070,064glg232,Cargo Control Equipment,50.9117647058824,GLG,true,CATI,null,0,false,false,,34,34,0,4.25,Completed,true
+1071,064glg233,Supply Chain,50,GLG,true,CATI,null,0,false,false,,26,26,0,4.75,Completed,true
+1072,064glg234,Church Management software,50.0066225165563,GLG,true,CATI,null,0,false,false,,151,151,0,25,Completed,true
+1073,064glg235,Supplier Trends/Trends in Meat Production Survey,48.1470588235294,GLG,true,CATI,null,0,false,false,,34,34,0,5,Completed,true
+1074,064glg236,Insurance Software,48.7894736842105,GLG,true,CATI,null,0,false,false,,19,19,0,3.25,Completed,true
+1075,064glg237,Document Management Top-Off,48.8571428571429,GLG,true,CATI,null,0,false,false,,14,14,0,1.5,Completed,true
+1076,064glg238,Network Survey - Modular Space II,49.3928571428572,GLG,true,CATI,null,0,false,false,,56,56,0,8.25,Completed,true
+1077,064glg239,Bed Banks,48,GLG,true,CATI,null,0,false,false,,44,44,0,6.5,Completed,true
+1078,064glg240,Medical Replacement Parts,40.0909090909091,GLG,true,CATI,null,0,false,false,,11,11,0,2,Completed,true
+1079,064glg241,Health Benefits,49.4285714285714,GLG,true,CATI,null,0,false,false,,70,70,0,11.25,Completed,true
+1080,064glg242,Digital Transformation in Manufacturing Survey,40,GLG,true,CATI,null,0,false,false,,195,195,0,30.25,Completed,true
+1081,064glg243,Security Software,51,GLG,true,CATI,null,0,false,false,,41,41,0,7.5,Completed,true
+1082,064glg244,Bovine A47ficial Ins63nation,50,GLG,true,CATI,null,0,false,false,,13,13,0,2.5,Completed,true
+1083,064glg245,Material Handling Survey,48.8965517241379,GLG,true,CATI,null,0,false,false,,87,87,0,12,Completed,true
+1084,064glg246,Container Shipping,54,GLG,true,CATI,null,0,false,false,,45,45,0,7,Completed,true
+1085,064glg247,Water Procurement,48.1388888888889,GLG,true,CATI,null,0,false,false,,72,72,0,18.5,Completed,true
+1086,064glg248,Alcoholic Beverages,50,GLG,true,CATI,null,0,false,false,,38,38,0,7,Completed,true
+1087,064glg249,Trends in Managed Service Providers,48.0909090909091,GLG,true,CATI,null,0,false,false,,11,11,0,2,Completed,true
+1088,064glg250,Claims Management,49,GLG,true,CATI,null,0,false,false,,12,12,0,2.75,Completed,true
+1089,064glg251,Future of Risk - Survey 1 - Management Senior Leaders,52.0958904109589,GLG,true,CATI,null,0,false,false,,73,73,0,12.5,Completed,true
+1090,064glg252,Packaged Group Tours,48,GLG,true,CATI,null,0,false,false,,24,24,0,5,Completed,true
+1091,064glg253,Florida Home Lenders and Title Agents,49.25,GLG,true,CATI,null,0,false,false,,24,24,0,3.5,Completed,true
+1092,064glg254,Oracle Resellers,50.12,GLG,true,CATI,null,0,false,false,,50,50,0,9.25,Completed,true
+1093,064glg255,MongoDB Resellers,49,GLG,true,CATI,null,0,false,false,,31,31,0,4,Completed,true
+1094,064glg256,Legal Software Solutions,40,GLG,true,CATI,null,0,false,false,,27,27,0,4.25,Completed,true
+1095,064glg257,Future of Transformations,51.4,GLG,true,CATI,null,0,false,false,,5,5,0,0.75,Completed,true
+1096,064glg258,Subsurface Mining Equipment,48.6428571428572,GLG,true,CATI,null,0,false,false,,28,28,0,4.25,Completed,true
+1097,064glg259,Debt Collectors III,48,GLG,true,CATI,null,0,false,false,,45,45,0,7.5,Completed,true
+1098,064glg260,CMMC Solutions,49.0857142857143,GLG,true,CATI,null,0,false,false,,35,35,0,5.25,Completed,true
+1099,064glg261,4 Car Platforms,40,GLG,true,CATI,null,0,false,false,,46,46,0,6.75,Completed,true
+1100,064glg262,Loan Origination Software,49.3076923076923,GLG,true,CATI,null,0,false,false,,39,39,0,6.5,Completed,true
+1101,064glg263,Boutique Gyms,48.7,GLG,true,CATI,null,0,false,false,,30,30,0,5,Completed,true
+1102,064glg264,Portable Storage Rentals,48.5666666666667,GLG,true,CATI,null,0,false,false,,30,30,0,4.5,Completed,true
+1103,064glg265,Factory Automation Survey,53,GLG,true,CATI,null,0,false,false,,23,23,0,4,Completed,true
+1104,064glg266,Big Grocery Retail,49,GLG,true,CATI,null,200,false,false,,1,1,0,0.25,Completed,true
+1105,064glg267,Broker Telehealth Solutions,48,GLG,true,CATI,null,0,false,false,,14,14,0,2.25,Completed,true
+1106,064glg268,Powersport Study (March Wave),52,GLG,true,CATI,null,0,false,false,,35,35,0,5,Completed,true
+1107,064glg269,Pool Corps (March Wave),56,GLG,true,CATI,null,0,false,false,,60,60,0,8,Completed,true
+1108,064glg270,Wellbeing Software for Employers,49.2857142857143,GLG,true,CATI,null,0,false,false,,14,14,0,2.25,Completed,true
+1109,064glg271,Trucks and truck-related services,51.1111111111111,GLG,true,CATI,null,0,false,false,,9,9,0,1.5,Completed,true
+1110,064glg272,Future of Corporate Services,51.2222222222222,GLG,true,CATI,null,0,false,false,,54,54,0,7.5,Completed,true
+1111,064glg273,Public Cloud Management Services,51,GLG,true,CATI,null,0,false,false,,27,27,0,3.75,Completed,true
+1112,064glg274,Banking Technology,50.7948717948718,GLG,true,CATI,null,0,false,false,,39,39,0,5.5,Completed,true
+1113,064glg275,Customers of supply chain risk management software,51.7809523809524,GLG,true,CATI,null,0,false,false,,105,105,0,16.5,Completed,true
+1114,064glg276,Commercial Lighting,48.6666666666667,GLG,true,CATI,null,0,false,false,,21,21,0,3.25,Completed,true
+1115,064glg277,SMB Lawfirm Survey,49.4210526315789,GLG,true,CATI,null,0,false,false,,19,19,0,3.5,Completed,true
+1116,064glg278,TMS Software Users,49,GLG,true,CATI,null,0,false,false,,14,14,0,1.25,Completed,true
+1117,064glg279,Start-Up Sales Motion Research,49.2666666666667,GLG,true,CATI,null,0,false,false,,45,45,0,7.25,Completed,true
+1118,064glg280,Clio Phone Survey,50.1764705882353,GLG,true,CATI,null,0,false,false,,17,17,0,2.25,Completed,true
+1119,064glg281,Sales Tracking Software,49.1428571428571,GLG,true,CATI,null,0,false,false,,14,14,0,2.5,Completed,true
+1120,064glg282,HPC Sector,48,GLG,true,CATI,null,0,false,false,,20,20,0,2,Completed,true
+1121,064glg283,Biometric Software,49.1290322580645,GLG,true,CATI,null,0,false,false,,31,31,0,6.5,Completed,true
+1122,064glg284,S63conductor Survey,58,GLG,true,CATI,null,0,false,false,,35,35,0,5,Completed,true
+1123,064glg285,Cross-border e-comm,49.5333333333333,GLG,true,CATI,null,0,false,false,,30,30,0,4.75,Completed,true
+1124,064glg286,UK Food Banks,51.0204081632653,GLG,true,CATI,null,0,false,false,,49,49,0,7,Completed,true
+1125,064glg287,Incontinence Pants Survey,48.1388888888889,GLG,true,CATI,null,0,false,false,,36,36,0,2.5,Completed,true
+1126,064glg288,Low Voltage Motors Survey,51,GLG,true,CATI,null,0,false,false,,9,9,0,1.5,Completed,true
+1127,064glg289,Residential Door Locks,54.7397260273973,GLG,true,CATI,null,0,false,false,,73,73,0,12.25,Completed,true
+1128,064glg290,Technology Perspectives in Transportation,48.8571428571429,GLG,true,CATI,null,0,false,false,,21,21,0,3.25,Completed,true
+1129,064glg291,UK Ceramic Tiles,49,GLG,true,CATI,null,0,false,false,,10,10,0,1.75,Completed,true
+1130,064glg292,CEOs & CHROs in Aerospace & Defence Industry,40,GLG,true,CATI,null,0,false,false,,46,46,0,7.25,Completed,true
+1131,064glg293,ESG operations strategy,56,GLG,true,CATI,null,0,false,false,,43,43,0,7,Completed,true
+1132,064glg294,Supply Chain Management Solutions,51.4745762711864,GLG,true,CATI,null,0,false,false,,59,59,0,8.25,Completed,true
+1133,064glg295,Adve47sing,48,GLG,true,CATI,null,0,false,false,,22,22,0,4,Completed,true
+1134,064glg296,"Internet Connectivity in Tabasco, Mexico",47.1881188118812,GLG,true,CATI,null,0,false,false,,101,101,0,16.25,Completed,true
+1135,064glg297,Building Material Distributors (Provider HVAC survey),48.2903225806452,GLG,true,CATI,null,0,false,false,,31,31,0,4.25,Completed,true
+1136,064glg298,Salon Owners and operator Trends,48.1948051948052,GLG,true,CATI,null,0,false,false,,77,77,0,10.75,Completed,true
+1137,064glg299,Payer Survey - Medical Trends,52,GLG,true,CATI,null,200,false,false,,2,2,0,0.5,Completed,true
+1138,064glg300,Switzerland Students & Alumni,40,GLG,true,CATI,null,0,false,false,,81,81,0,13.5,Completed,true
+1139,064glg301,K-12 Edu1on survey,22,GLG,true,CATI,null,0,false,false,,19,19,0,3.75,Completed,true
+1140,064glg302,Accounting and payroll,50,GLG,true,CATI,null,0,false,false,,15,15,0,1.75,Completed,true
+1141,064glg303,Medical Insurance Brokers,48,GLG,true,CATI,null,0,false,false,,25,25,0,4,Completed,true
+1142,064glg304,Financial Insights in Healthcare - Wave 2,51,GLG,true,CATI,null,0,false,false,,22,22,0,3.5,Completed,true
+1143,064glg305,IoT Use Case Study,40,GLG,true,CATI,null,0,false,false,,44,44,0,7.75,Completed,true
+1144,064glg306,Global automotive survey,51,GLG,true,CATI,null,0,false,false,,8,8,0,1.25,Completed,true
+1145,064glg307,Mechanical Design Engineer & Contractor,48,GLG,true,CATI,null,0,false,false,,90,90,0,14.75,Completed,true
+1146,064glg308,Customers and Competitors Survey,51,GLG,true,CATI,null,0,false,false,,16,16,0,2.5,Completed,true
+1147,064glg309,Digital Identity Verifi1on,51.0555555555556,GLG,true,CATI,null,0,false,false,,36,36,0,6,Completed,true
+1148,064glg310,Vegetation Management,48.4074074074074,GLG,true,CATI,null,0,false,false,,27,27,0,5.5,Completed,true
+1149,064glg311,Holiday parks IV,50,GLG,true,CATI,null,0,false,false,,60,60,0,9.25,Completed,true
+1150,064glg312,Fashion E-commerce (Wave-2),51.0952380952381,GLG,true,CATI,null,0,false,false,,42,42,0,5.75,Completed,true
+1151,064glg313,Customers and Competitors Survey - Distributors Study,50.5,GLG,true,CATI,null,0,false,false,,15,15,0,2.25,Completed,true
+1152,064glg314,Enterprise Networking Equipment Users,49.0645161290323,GLG,true,CATI,null,0,false,false,,31,31,0,5.25,Completed,true
+1153,064glg315,Locomotives and Railcar Survey - Re-run study,54,GLG,true,CATI,null,0,false,false,,25,25,0,4.5,Completed,true
+1154,064glg316,Solar Market Trends_W3,54,GLG,true,CATI,null,0,false,false,,26,26,0,4,Completed,true
+1155,064glg317,Paint Contractor Trends,50.1333333333333,GLG,true,CATI,null,0,false,false,,30,30,0,3.25,Completed,true
+1156,064glg318,Financial Market Data Providers Survey - Next Wave March 2024,55,GLG,true,CATI,null,0,false,false,,40,40,0,5.5,Completed,true
+1157,064glg319,LPL Financial Advisors Study,46,GLG,true,CATI,null,0,false,false,,83,83,0,13,Completed,true
+1158,064glg320,NICE Partner Trends - April Wave,48.7058823529412,GLG,true,CATI,null,0,false,false,,17,17,0,2.75,Completed,true
+1159,064glg321,Software Resellers - Monday.com,49,GLG,true,CATI,null,0,false,false,,15,15,0,1.75,Completed,true
+1160,064glg322,ED Tech US,49.8421052631579,GLG,true,CATI,null,0,false,false,,38,38,0,4,Completed,true
+1161,064glg323,Moody’s and MSCI products - April Wave,54,GLG,true,CATI,null,0,false,false,,42,42,0,6.75,Completed,true
+1162,064glg324,Auto Dealer Survey Feasibility,49.75,GLG,true,CATI,null,0,false,false,,32,32,0,12,Completed,true
+1163,064glg325,IT Resellers 2024,54,GLG,true,CATI,null,0,false,false,,8,8,0,1.25,Completed,true
+1164,064glg326,Content Monetization Preferences (Survey #602501),51,GLG,true,CATI,null,0,false,false,,6,6,0,6,Completed,true
+1165,064glg327,Fintech Payments V,49.5714285714286,GLG,true,CATI,null,0,false,false,,28,28,0,5.25,Completed,true
+1166,064glg328,Software Resellers - PTC,49,GLG,true,CATI,null,0,false,false,,10,10,0,2.5,Completed,true
+1167,064glg329,IBM Platinum Partners,49.0833333333333,GLG,true,CATI,null,0,false,false,,24,24,0,3.75,Completed,true
+1168,064glg330,Plant Based Dairy III,50,GLG,true,CATI,null,0,false,false,,59,59,0,9.75,Completed,true
+1169,064glg331,Rig and Vessel Construction Study,51.5,GLG,true,CATI,null,0,false,false,,10,10,0,1.25,Completed,true
+1170,064glg332,Satellites,50.6857142857143,GLG,true,CATI,null,0,false,false,,35,35,0,6.5,Completed,true
+1171,064glg333,MSFT Azure Resellers,52,GLG,true,CATI,null,0,false,false,,20,20,0,2.75,Completed,true
+1172,064glg334,PTC Resellers,49.2857142857143,GLG,true,CATI,null,0,false,false,,42,42,0,7,Completed,true
+1173,064glg335,Retail Stores,50,GLG,true,CATI,null,200,false,false,,4,4,0,0.5,Completed,true
+1174,064glg336,Material Handling Survey (Re-Contact),5,GLG,true,CATI,null,0,false,false,,73,73,0,5,Completed,true
+1175,064glg337,Ferrari Owners,48,GLG,true,CATI,null,0,false,false,,40,40,0,5.5,Completed,true
+1176,064glg338,Ship Management Study,52.2,GLG,true,CATI,null,0,false,false,,30,30,0,6,Completed,true
+1177,064glg339,Zebra Resellers - Wave 2,49.3191489361702,GLG,true,CATI,null,0,false,false,,47,47,0,7.25,Completed,true
+1178,064glg340,Datadog,52,GLG,true,CATI,null,0,false,false,,10,10,0,1.25,Completed,true
+1179,064glg341,Industrial Equipment Buyers/Renters in Michigan Request,48.9016393442623,GLG,true,CATI,null,0,false,false,,122,122,0,19.25,Completed,true
+1180,064glg342,Network Distributors and Customers,56,GLG,true,CATI,null,0,false,false,,72,72,0,10.5,Completed,true
+1181,064glg343,Generative AI Attitudes & Investment,49,GLG,true,CATI,null,0,false,false,,30,30,0,3.5,Completed,true
+1182,064glg344,Va1on Property Rental Trends - Q2 2024,52,GLG,true,CATI,null,0,false,false,,30,30,0,4.5,Completed,true
+1183,064glg345,Tissue Industry in EU,48.74,GLG,true,CATI,null,0,false,false,,50,50,0,5.5,Completed,true
+1184,064glg346,Financial Planning,48,GLG,true,CATI,null,0,false,false,,23,23,0,2.25,Completed,true
+1185,064glg347,Auto Dealership Manager,48,GLG,true,CATI,null,0,false,false,,15,15,0,2.25,Completed,true
+1186,064glg348,Wix Studio Partners,49.4444444444444,GLG,true,CATI,null,0,false,false,,45,45,0,7,Completed,true
+1187,064glg349,FORMERS - Software Professional Services,49,GLG,true,CATI,null,0,false,false,,10,10,0,1.5,Completed,true
+1188,064glg350,Outsourced Prior Authorization and Utilization,49,GLG,true,CATI,null,0,false,false,,17,17,0,2.5,Completed,true
+1189,064glg351,Healthcare Cybersecurity Survey,48.6896551724138,GLG,true,CATI,null,0,false,false,,58,58,0,9.25,Completed,true
+1190,064glg352,Private Equity survey,50.53125,GLG,true,CATI,null,0,false,false,,32,32,0,3.5,Completed,true
+1191,064glg353,Freight Forwarders & Logistics,49.1,GLG,true,CATI,null,0,false,false,,30,30,0,4.75,Completed,true
+1192,064glg354,Business Banking Survey,40,GLG,true,CATI,null,0,false,false,,48,48,0,6.75,Completed,true
+1193,064glg355,Medical Affair Insights,51,GLG,true,CATI,null,0,false,false,,5,5,0,0.5,Completed,true
+1194,064glg356,Digital Marketing Agencies,50.3333333333333,GLG,true,CATI,null,0,false,false,,21,21,0,3.5,Completed,true
+1195,064glg357,ERP Software for Metal Manufacturing,49,GLG,true,CATI,null,0,false,false,,58,58,0,9.25,Completed,true
+1196,064glg358,Non-Profit Software Survey,48.3333333333333,GLG,true,CATI,null,0,false,false,,6,6,0,1,Completed,true
+1197,064glg359,Field Service Management,48.9512195121951,GLG,true,CATI,null,0,false,false,,41,41,0,6.25,Completed,true
+1198,064glg360,Toilet Fixtures,48.39,GLG,true,CATI,null,0,false,false,,100,100,0,16,Completed,true
+1199,064glg361,Stainless Steel in Medicine,49,GLG,true,CATI,null,0,false,false,,12,12,0,2.5,Completed,true
+1200,064glg362,Property Management Software Survey,49.0618556701031,GLG,true,CATI,null,0,false,false,,97,97,0,14,Completed,true
+1201,064glg363,Hospitality software,49.3333333333333,GLG,true,CATI,null,0,false,false,,42,42,0,7.25,Completed,true
+1202,064glg364,Global Mobility Solutions,48.8235294117647,GLG,true,CATI,null,0,false,false,,17,17,0,3.25,Completed,true
+1203,064glg365,Liquid Packaging,48.74,GLG,true,CATI,null,0,false,false,,50,50,0,7.25,Completed,true
+1204,064glg366,CPG Survey,49.5714285714286,GLG,true,CATI,null,0,false,false,,7,7,0,1,Completed,true
+1205,064glg367,"Hospitals and Surgical Centers, DMs for Revenue Management Software Purchasing",48.64,GLG,true,CATI,null,0,false,false,,25,25,0,4,Completed,true
+1206,064glg368,Understanding Buy-Now-Pay-Later Usage,49,GLG,true,CATI,null,0,false,false,,61,61,0,9.75,Completed,true
+1207,064glg369,S63conductor Manufacturing Equipment,46,GLG,true,CATI,null,0,false,false,,49,49,0,7.5,Completed,true
+1208,064glg370,State of AI survey,49.2271762208068,GLG,true,CATI,null,0,false,false,,942,942,0,123.5,Completed,true
+1209,064glg371,Investors discovery - CDMO Pharma,48,GLG,true,CATI,null,0,false,false,,7,7,0,1.25,Completed,true
+1210,064glg372,Glass Manufacturers,48.0694444444444,GLG,true,CATI,null,0,false,false,,72,72,0,10.5,Completed,true
+1211,064glg373,Payers and IT,49,GLG,true,CATI,null,200,false,false,,2,2,0,0.5,Completed,true
+1212,064glg374,Grain Farmers,48,GLG,true,CATI,null,0,false,false,,14,14,0,2.5,Completed,true
+1213,064glg375,Gucci Retailers,48.5294117647059,GLG,true,CATI,null,0,false,false,,68,68,0,10.75,Completed,true
+1214,064glg376,DMs for consulting hiring,48.819587628866,GLG,true,CATI,null,0,false,false,,194,194,0,28.5,Completed,true
+1215,064glg377,GM Dealers,49.15,GLG,true,CATI,null,0,false,false,,40,40,0,5.75,Completed,true
+1216,064glg378,ERP Software for Audit & Ce47fi1on,46.1594202898551,GLG,true,CATI,null,0,false,false,,69,69,0,12,Completed,true
+1217,064glg379,Fire Alarm Systems Survey ,48.8636363636364,GLG,true,CATI,null,0,false,false,,22,22,0,3.25,Completed,true
+1218,064glg380,Large Global Brand Study,56,GLG,true,CATI,null,0,false,false,,254,254,0,41.5,Completed,true
+1219,064glg381,Leisure Club Management,49.0425531914894,GLG,true,CATI,null,0,false,false,,94,94,0,13.75,Completed,true
+1220,064glg382,ERP SOFTWARE USERS SURVEY (EOD Turnaround),48.4827586206897,GLG,true,CATI,null,0,false,false,,29,29,0,5.25,Completed,true
+1221,064glg383,Property Management,48.8,GLG,true,CATI,null,0,false,false,,15,15,0,3.25,Completed,true
+1222,064glg384,Insurance Brokers in Italy - PSF,34,GLG,true,CATI,null,0,false,false,,48,48,0,6,Completed,true
+1223,064glg385,Diamond Retailers,49.1473684210526,GLG,true,CATI,null,0,false,false,,95,95,0,10.5,Completed,true
+1224,064glg386,CFOs' Capital Allo1on,40,GLG,true,CATI,null,0,false,false,,92,92,0,12.75,Completed,true
+1225,064glg387,Professional kitchen equipment,48,GLG,true,CATI,null,200,false,false,,2,2,0,0.25,Completed,true
+1226,064glg388,Liquid Natural Gas,49.0833333333333,GLG,true,CATI,null,0,false,false,,12,12,0,2,Completed,true
+1227,064glg389,Higher Ed Software,49.3333333333333,GLG,true,CATI,null,0,false,false,,18,18,0,2.5,Completed,true
+1228,064glg390,E-bikes Market Overview,49.1044776119403,GLG,true,CATI,null,0,false,false,,67,67,0,9.5,Completed,true
+1229,064glg391,Edu1on Engagement Software,49,GLG,true,CATI,null,200,false,false,,1,1,0,0.25,Completed,true
+1230,064glg392,Large National Banks,49,GLG,true,CATI,null,0,false,false,,143,143,0,19,Completed,true
+1231,064glg393,Early Chilhood Center Owners,49,GLG,true,CATI,null,0,false,false,,24,24,0,3.75,Completed,true
+1232,064glg394,Maritime Learning Platforms,51,GLG,true,CATI,null,0,false,false,,9,9,0,1.25,Completed,true
+1233,064glg395,Refining Process Technologies Survey,49,GLG,true,CATI,null,0,false,false,,12,12,0,1.5,Completed,true
+1234,064glg396,Legal Market Insights,58,GLG,true,CATI,null,0,false,false,,134,134,0,17.75,Completed,true
+1235,064glg397,MMSI Market Assessment,48.64,GLG,true,CATI,null,0,false,false,,25,25,0,3,Completed,true
+1236,064glg398,Payer Survey,53.3157894736842,GLG,true,CATI,null,0,false,false,,19,19,0,3,Completed,true
+1237,064glg399,ATO Prevention in Financial Services,49.1428571428571,GLG,true,CATI,null,0,false,false,,56,56,0,7.75,Completed,true
+1238,064glg400,B&B hotels franchisees managers survey,46,GLG,true,CATI,null,0,false,false,,23,23,0,3,Completed,true
+1239,064glg401,E-learning content translation/localization software,55.1666666666667,GLG,true,CATI,null,0,false,false,,6,6,0,2.25,Completed,true
+1240,064glg402,Solar Installers,49.5,GLG,true,CATI,null,0,false,false,,8,8,0,1,Completed,true
+1241,064glg403,Residential Door Locks,54,GLG,true,CATI,null,0,false,false,,93,93,0,15,Completed,true
+1242,064glg404,Auto-dealer survey,48.7088607594937,GLG,true,CATI,null,0,false,false,,79,79,0,11.25,Completed,true
+1243,064glg405,Martech Solution Insights,49.25,GLG,true,CATI,null,0,false,false,,8,8,0,1,Completed,true
+1244,064glg406,Car Dealership Floor Liners,47.2666666666667,GLG,true,CATI,null,0,false,false,,15,15,0,2.25,Completed,true
+1245,064glg407,Automotive OEMs,49,GLG,true,CATI,null,0,false,false,,16,16,0,2,Completed,true
+1246,064glg408,Solar Installers,49.52,GLG,true,CATI,null,0,false,false,,25,25,0,3.5,Completed,true
+1247,064glg409,Transformer Survey,48.68,GLG,true,CATI,null,0,false,false,,25,25,0,3.25,Completed,true
+1248,064glg410,Rental Apartment Listings,48.375,GLG,true,CATI,null,0,false,false,,24,24,0,4.5,Completed,true
+1249,064glg411,Tourism Software survey,49.125,GLG,true,CATI,null,0,false,false,,32,32,0,3.5,Completed,true
+1250,064glg412,AI Perception Tracking,48.2,GLG,true,CATI,null,0,false,false,,20,20,0,4,Completed,true
+1251,064glg413,Outsourced IT Services Providers,49.3870967741936,GLG,true,CATI,null,0,false,false,,31,31,0,4,Completed,true
+1252,064glg414,Acute Care Survey,48.6086956521739,GLG,true,CATI,null,0,false,false,,23,23,0,4.25,Completed,true
+1253,064glg415,Luxury mall managers,48,GLG,true,CATI,null,0,false,false,,50,50,0,7,Completed,true
+1254,064glg416,Parents and Teachers,45.3814432989691,GLG,true,CATI,null,0,false,false,,97,97,0,14.75,Completed,true
+1255,064glg417,Medical Products Manufacturers,49.2857142857143,GLG,true,CATI,null,0,false,false,,7,7,0,1.25,Completed,true
+1256,064glg418,Travel Vaccines,53.1538461538462,GLG,true,CATI,null,0,false,false,,65,65,0,10.25,Completed,true
+1257,064glg419,Moody’s and MSCI products,49.2068965517241,GLG,true,CATI,null,0,false,false,,29,29,0,4.75,Completed,true
+1258,064glg420,Electricity Market In Ireland,49.35,GLG,true,CATI,null,0,false,false,,20,20,0,3.25,Completed,true
+1259,064glg421,Pest Control Trends,49.8,GLG,true,CATI,null,0,false,false,,50,50,0,6.5,Completed,true
+1260,064glg422,Property Management Services,49,GLG,true,CATI,null,0,false,false,,16,16,0,2.5,Completed,true
+1261,064glg423,Fire & Safety Systems,48,GLG,true,CATI,null,0,false,false,,60,60,0,8.75,Completed,true
+1262,064glg424,Unified Customer Experience Management Trends,49.0740740740741,GLG,true,CATI,null,0,false,false,,27,27,0,3.75,Completed,true
+1263,064glg425,Mortgage Software - July Wave,54,GLG,true,CATI,null,0,false,false,,28,28,0,4.25,Completed,true
+1264,064glg426,Expert Witnesses,48,GLG,true,CATI,null,0,false,false,,15,15,0,1.75,Completed,true
+1265,064glg427,Oil Drilling,49.5,GLG,true,CATI,null,0,false,false,,32,32,0,5.25,Completed,true
+1266,064glg428,Frozen Potato Customer Trends,46,GLG,true,CATI,null,0,false,false,,13,13,0,2.25,Completed,true
+1267,064glg429,Enterprise Software (Wave 2),68,GLG,true,CATI,null,0,false,false,,43,43,0,5.75,Completed,true
+1268,064glg430,Web hosting & ICT customers,47.8888888888889,GLG,true,CATI,null,0,false,false,,18,18,0,2.5,Completed,true
+1269,064glg431,Research Resources Survey,48,GLG,true,CATI,null,0,false,false,,37,37,0,4,Completed,true
+1270,064glg432,Apartments.com,48,GLG,true,CATI,null,0,false,false,,37,37,0,6.25,Completed,true
+1271,064glg433,Investment Research,45.6666666666667,GLG,true,CATI,null,0,false,false,,15,15,0,4,Completed,true
+1272,064glg434,Trade Workers,46,GLG,true,CATI,null,0,false,false,,10,10,0,1.25,Completed,true
+1273,064glg435,Datadog Customers 5th Wave,52,GLG,true,CATI,null,0,false,false,,11,11,0,2.5,Completed,true
+1274,064glg436,Large PE Survey Request,51,GLG,true,CATI,null,0,false,false,,49,49,0,7.25,Completed,true
+1275,064glg437,Patient Volume and Trends,49.5957446808511,GLG,true,CATI,null,0,false,false,,47,47,0,7,Completed,true
+1276,064glg438,Non-residential constructions contractors,48.5333333333333,GLG,true,CATI,null,0,false,false,,45,45,0,7,Completed,true
+1277,064glg439,Solar Panels,49.3880597014925,GLG,true,CATI,null,0,false,false,,67,67,0,8.25,Completed,true
+1278,064glg440,Omnichannel Retail,47.4761904761905,GLG,true,CATI,null,0,false,false,,63,63,0,9.25,Completed,true
+1279,064glg441,Procore Customer,49,GLG,true,CATI,null,0,false,false,,27,27,0,4,Completed,true
+1280,064glg442,Debt Collectors,48.9166666666667,GLG,true,CATI,null,0,false,false,,60,60,0,8.75,Completed,true
+1281,064glg443,Generator Market Assessment,48.5238095238095,GLG,true,CATI,null,0,false,false,,21,21,0,2.5,Completed,true
+1282,064glg444,Property Management Software Users,36,GLG,true,CATI,null,0,false,false,,60,60,0,7.75,Completed,true
+1283,064glg445,European Airports Outlook - II,49,GLG,true,CATI,null,0,false,false,,50,50,0,6,Completed,true
+1284,064glg446,AI products in Finance,56,GLG,true,CATI,null,0,false,false,,18,18,0,2.5,Completed,true
+1285,064glg447,Food Ingredients Procurement ,49,GLG,true,CATI,null,0,false,false,,36,36,0,5.25,Completed,true
+1286,064glg448,IT Asset Management,49.258064516129,GLG,true,CATI,null,0,false,false,[object Object],31,31,0,3.75,To Be Started,true
+1287,064glg449,Tabletop Game Stores,50.2982456140351,GLG,true,CATI,null,0,false,false,,57,57,0,11.25,Completed,true
+1288,064glg450,French Grocery Market Overview,56,GLG,true,CATI,null,0,false,false,,30,30,0,5.5,Completed,true
+1289,064glg451,Factory automation equipment Distributors,49.3010752688172,GLG,true,CATI,null,0,false,false,,93,93,0,12.75,Completed,true
+1290,064glg452,Shipping Service Survey,49.2285714285714,GLG,true,CATI,null,0,false,false,,35,35,0,4.5,Completed,true
+1291,064glg453,Adve47sing in Mobile Gaming - Wave 2,48.7,GLG,true,CATI,null,0,false,false,,20,20,0,2.25,Completed,true
+1292,064glg454,Battery Recycling III,56,GLG,true,CATI,null,0,false,false,,66,66,0,9.25,Completed,true
+1293,064glg455,UK Fibre Industry,48.5714285714286,GLG,true,CATI,null,0,false,false,,28,28,0,4,Completed,true
+1294,064glg456,Sports Software,48.5806451612903,GLG,true,CATI,null,0,false,false,,62,62,0,14,Completed,true
+1295,064glg457,Recurring Revenue Billing Platforms Survey,51.3428571428571,GLG,true,CATI,null,0,false,false,,35,35,0,5,Completed,true
+1296,064glg458,Bathroom Showrooms,48,GLG,true,CATI,null,0,false,false,,12,12,0,1.75,Completed,true
+1297,064glg459,Block Chain Wallet Technology,46.7586206896552,GLG,true,CATI,null,0,false,false,,29,29,0,6,Completed,true
+1298,064glg460,Elevators & Escalators,48,GLG,true,CATI,null,0,false,false,,27,27,0,3.5,Completed,true
+1299,064glg461,ESG Solutions,50.0857142857143,GLG,true,CATI,null,0,false,false,,35,35,0,7.25,Completed,true
+1300,064glg462,Cement Industry III,56,GLG,true,CATI,null,0,false,false,,9,9,0,1.5,Completed,true
+1301,064glg463,Contract Hardware Dealers,49,GLG,true,CATI,null,0,false,false,,12,12,0,5.5,Completed,true
+1302,064glg464,Travel Insurance Benchmarking,48.5121951219512,GLG,true,CATI,null,0,false,false,,41,41,0,5.5,Completed,true
+1303,064glg465,Generics Licensing,49,GLG,true,CATI,null,0,false,false,,36,36,0,5.25,Completed,true
+1304,064glg466,Automotive Manufacturing - US,48.375,GLG,true,CATI,null,0,false,false,,8,8,0,1,Completed,true
+1305,064glg467,Uniform Services & Workplace Supplies Customers,48.6,GLG,true,CATI,null,0,false,false,,20,20,0,2.75,Completed,true
+1306,064glg468,Indirect Payments Survey,49,GLG,true,CATI,null,200,false,false,,4,4,0,0.5,Completed,true
+1307,064glg469,Market Research Space survey,51.8,GLG,true,CATI,null,0,false,false,,20,20,0,4.5,Completed,true
+1308,064glg470,Selling cross border,51.8,GLG,true,CATI,null,0,false,false,,30,30,0,4.5,Completed,true
+1309,051sym057,homebuilders,46,Symmetric Sampling,true,CATI,null,200,false,false,,200,200,0,33.25,Completed,true
+1310,044qua063,FECOperatorsCharles,39.5,Qualtrics,true,CATI,null,200,false,false,,50,50,0,8.5,Completed,true
+1311,044qua064,CornerstoreOwners,42,Qualtrics,true,CATI,null,200,false,false,,50,50,0,8.75,Completed,true
+1312,052wer057,Professional services DMs,47,Werk Insights,true,CATI,null,200,false,false,,388,388,0,74,Completed,true
+1313,058cam059,Oil and Gas Executives,54,Cambia,true,CATI,null,200,false,false,,150,150,0,24.25,Completed,true
+1314,044qua065,Computer Science Students,29,Qualtrics,true,CATI,null,200,false,false,,66,66,0,9.75,Completed,true
+1315,038oxf052,IBM SAP cloud transformation survey,55,Oxford Economics,true,CATI,null,0,false,false,,910,910,0,70,Completed,true
+1316,052wer058,Professional DMs (Wave 2),47,Werk Insights,true,CATI,null,200,false,false,,300,300,0,38.25,Completed,true
+1317,044qua066,NurseHospitalAdmins,42,Qualtrics,true,CATI,null,200,false,false,,200,200,0,17.25,Completed,true
+1318,038oxf053,IBM US pulse (wave 46) Gen AI model optimization,35,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,15.5,Completed,true
+1319,048sim049,Interior Design,39,Simple Opinions,true,CATI,null,200,false,false,,26,26,0,4.5,Completed,true
+1320,030har031,MA PA Study,15,Harmon Research,true,Online,null,0,false,false,,75,75,25,0,Completed,true
+1321,030har032,Germany Consumer,7,Harmon Research,true,Online,null,0,false,false,,508,508,992,0,Completed,true
+1322,056b2b059,Office Supply Decision Makers at Hospitals,55,B2B International,true,Online,null,200,false,false,,39,39,111,0,Completed,true
+1323,056b2b060,Office Supply Decision Makers at Hospitals,52,B2B International,true,Online,null,0,false,false,,6,6,144,0,Completed,true
+1324,056b2b061,Office Supply Decision Makers at Hospitals,54,B2B International,true,Online,null,0,false,false,,12,12,138,0,Completed,true
+1325,030har033,USA Hispanic,7.5,Harmon Research,true,Online,null,0,false,false,,3,3,497,0,Completed,true
+1326,038oxf054,Pulse banking survey for IBM,37.75,Oxford Economics,true,CATI,null,0,false,false,,600,600,0,186,Completed,true
+1327,056b2b062,Safety Decision maker wave 2_Employer,32,B2B International,true,Online,null,300,false,false,,233,233,767,0,Completed,true
+1328,056b2b063,Safety Decision maker wave 2_Employee,12.5,B2B International,true,Online,null,0,false,false,,475,475,525,0,Completed,true
+1329,051sym058,Homebuilders,26,Symmetric Sampling,true,Online,null,0,false,false,,48,48,52,0,Completed,true
+1330,030har034,B2B value Prop,32,Harmon Research,true,Online,null,0,false,false,,45,45,5,0,Completed,true
+1331,030har035,TMO Positioning Study,25,Harmon Research,true,Online,null,0,false,false,,660,660,40,0,Completed,true
+1332,056b2b064,Enterprise IT/Digital Infrastructure,32,B2B International,true,Online,null,200,false,false,,100,100,60,0,Completed,true
+1333,030har036,Grand Rapids,10,Harmon Research,true,Online,null,0,false,false,,21,21,9,0,Completed,true
+1334,038oxf055,SMB Study,46,Oxford Economics,true,Online,null,0,false,false,,3750,3750,0,241,Completed,true
+1335,030har037,B2B cost Inquiry,22,Harmon Research,true,Online,null,0,false,false,,21,21,54,0,Completed,true
+1336,030har038,JH Study,8,Harmon Research,true,Online,null,0,false,false,,125,125,-25,0,Completed,true
+1337,030har039,Grand Rapid_part 2,10,Harmon Research,true,Online,null,0,false,false,,3,3,7,0,Completed,true
+1338,044qua067,Project2Fernanda,5,Qualtrics,true,Online,null,0,false,false,,28,28,372,0,Completed,true
+1339,030har040,JH 2023_Wave 1,36,Harmon Research,true,Online,null,0,false,false,,18,18,13,0,Completed,true
+1340,030har041,JH 2023_wave 2,46,Harmon Research,true,Online,null,0,false,false,,5,5,26,0,Completed,true
+1341,044qua068,Computer Science_Part 1,10,Qualtrics,true,Online,null,200,false,false,,144,144,56,0,Completed,true
+1342,035m3 036,Oncologist_ONC/ HEM ONC,68,M3 Global Research,true,Online,null,550,false,false,,14,14,86,0,Completed,true
+1343,035m3 037,Oncologist_(Increased Honorarium),135,M3 Global Research,true,Online,null,0,false,false,,30,30,70,0,Completed,true
+1344,035m3 038,Oncologist_Practice Managers,32,M3 Global Research,true,Online,null,0,false,false,,17,17,83,0,Completed,true
+1345,044qua069,PerformanceCoatings,44,Qualtrics,true,CATI,null,200,false,false,,99,99,1,40,Completed,true
+1346,038oxf056,IBM Pulse wave 43,35,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,37,Completed,true
+1347,046rot081,Auto Garages,35,Roth.MKM,true,Online,null,200,false,false,,52,52,48,0,Completed,true
+1348,046rot082,Auto Garages,35,Roth.MKM,true,Online,null,0,false,false,,45,45,55,0,Completed,true
+1349,046rot083,Auto Garages,15,Roth.MKM,true,Online,null,0,false,false,,8,8,92,0,Completed,true
+1350,044qua070,InsuranceReplacement,6,Qualtrics,true,Online,null,0,false,false,,837,837,663,0,Completed,true
+1351,038oxf057,Salesforce 2024 survey,44,Oxford Economics,true,CATI,null,0,false,false,,1180,1180,0,153,Completed,true
+1352,035m3 039,Germany Endos_France,105,M3 Global Research,true,Online,null,600,false,false,,14,14,36,0,Completed,true
+1353,035m3 040,Germany Endos_Germany,105,M3 Global Research,true,Online,null,0,false,false,,5,5,45,0,Completed,true
+1354,038oxf058,IBM GLOBAL PULSE WAVE 2 EXTENDED CHIEF EXECUTIVE OFFICER (CEO),37,Oxford Economics,true,CATI,null,0,false,false,,550,550,0,89,Completed,true
+1355,044qua071,IT & Cybersecurity Directors,46,Qualtrics,true,CATI,null,200,false,false,,100,100,0,37,Completed,true
+1356,043qua044,Cognizant Value Survey,9,Quadrant Strategy,true,Online,null,0,false,false,,300,300,10,0,Completed,true
+1357,030har042,Houston Hispanic,12,Harmon Research,true,Online,null,0,false,false,,165,165,-115,0,Completed,true
+1358,045que046,Chicago Quirks (DA Consumer),10,Quester,true,Online,null,0,false,false,,26,26,BE,0,Completed,true
+1359,045que047,Chicago Quirks (Agent),28,Quester,true,Online,null,0,false,false,,123,123,BE,0,Completed,true
+1360,050spa051,RFP NEW VEHICLE PURCHASE STUDY (pilot free project),0,Sparkle Insight,true,CATI,null,0,false,false,,25,25,0,9,Completed,true
+1361,046rot084,Homeowners,10,Roth.MKM,true,Online,null,0,false,false,,120,120,165,0,Completed,true
+1362,038oxf059,IBM US pulse survey wave 44 -- gen AI and risk management,35,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,31,Completed,true
+1363,038oxf060,IBM US pulse survey wave 45_AI automation,35,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,18,Completed,true
+1364,030har043,Dallas Hispanic_Part 1,12,Harmon Research,true,Online,null,0,false,false,,2,2,33,0,Completed,true
+1365,030har044,Dallas Hispanic_Part 2,17,Harmon Research,true,Online,null,0,false,false,,44,44,-9,0,Completed,true
+1366,051sym059,Residential Installers & Homebuilders Survey,46,Symmetric Sampling,true,CATI,null,200,false,false,,242,242,-67,66,Completed,true
+1367,044qua072,UINTAH COUNTY SURVEY,21,Qualtrics,true,CATI,null,200,false,false,,75,75,0,26,Completed,true
+1368,038oxf061,IBM US pulse (wave 48) Cost of compute survey,35,Oxford Economics,true,CATI,null,0,false,false,,200,200,0,24,Completed,true
+1369,054app055,Operating Model in Retail and Consumer Companies,29,Appinio,true,Online,null,150,false,false,,66,66,434,0,Completed,true
+1370,038oxf062,TE Tourism B2B Survey,43,Oxford Economics,true,CATI,null,0,false,false,,30,30,0,6,Completed,true
+1371,030har045,Business Study,28,Harmon Research,true,Online,null,0,false,false,,29,29,621,0,Completed,true
+1372,030har046,Retirement Landscape / 2024-003_Part 1,27,Harmon Research,true,Online,null,0,false,false,,54,54,96,0,Completed,true
+1373,030har047,Retirement Landscape / 2024-003_Part 2,29,Harmon Research,true,Online,null,0,false,false,,14,14,136,0,Completed,true
+1374,038oxf063,Global Outsourcing Survey,46,Oxford Economics,true,CATI,null,0,false,false,,500,500,0,47.5,Completed,true
+1375,044qua073,MaineVermont,5.75,Qualtrics,true,Online,null,0,false,false,,124,124,176,0,Completed,true
+1376,030har048,Dental Procedure,12,Harmon Research,true,Online,null,0,false,false,,3,3,57,0,Completed,true
+1377,030har049,Fargo ND radio study,9,Harmon Research,true,Online,null,0,false,false,,144,144,-94,0,Completed,true
+1378,030har050,Madison WI MSA radio study,9,Harmon Research,true,Online,null,0,false,false,,111,111,-61,0,Completed,true
+1379,044qua074,Shippers,20,Qualtrics,true,Online,null,0,false,false,,499,499,251,0,Completed,true
+1380,038oxf064,Youtube_Business,6,Oxford Economics,true,Online,null,0,false,false,,9395,7377,0,7,Completed,true
+1381,038oxf065,Youtube_User,2.75,Oxford Economics,true,Online,null,0,false,false,,48870,37938,0,80,Completed,true
+1382,038oxf066,IBM_Mobility survey,44,Oxford Economics,true,CATI,null,0,false,false,,1230,1230,0,170,Completed,true
+1383,030har051,US Adults,2.75,Harmon Research,true,Online,null,0,false,false,,140,140,60,0,Completed,true
+1384,028uni029,900test,10,Unimrkt,true,CATI,,10,false,false,[object Object],300,19,281,11,In Progress,true
+1385,027nov028,pro test,10,novusclient,true,CATI,,10,false,false,[object Object],200,null,null,null,To Be Started,true

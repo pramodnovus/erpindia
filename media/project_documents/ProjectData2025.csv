@@ -1,0 +1,252 @@
+id,project_code,name,project_type,clients,cpi,other_cost,operation_select,finance_select,upload_document,tentative_start_date,tentative_end_date,estimated_time,status,remark,created_by,assigned_to,created_at,is_active
+3329,001glg806,Rental Marketing Platforms,CATI,GLG,49,,1,0,,2025-02-04 05:30:00,2025-02-11 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-02-05 08:28:32,1
+3328,003pot244,2945a - Uni - Re: URGENT - Potloc B2B Project - Da,CATI,potloc,38,,1,0,,2025-02-04 05:30:00,2025-02-11 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Jagdeep Yadav,2025-02-05 08:27:57,1
+3327,035har048,2024-027-02 UT JH Academic - FEB,Online,Harmon,15,,1,0,,2025-02-04 05:30:00,2025-02-11 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Pankaj Nandolia,2025-02-05 08:26:56,1
+3326,001glg805,HCM Software survey Mid-market : GLG Feasibility R,CATI,GLG,51,,1,0,,2025-02-04 05:30:00,2025-02-11 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-02-05 08:25:22,1
+3325,071wer088,Contractors and Architects (462),CATI,Werk Insights,45,,1,0,,2025-02-03 05:30:00,2025-02-17 05:30:00,"14 days, 0:00:00",Project Initiated,,Saransh Sharma,Ankit Narang,2025-02-05 08:24:46,1
+3324,116bur117,Ingredients Research,CATI,Burak Jacobson,43,,1,0,,2025-02-03 05:30:00,2025-02-27 05:30:00,"24 days, 0:00:00",Project Initiated,,Saransh Sharma,Saurabh Malik,2025-02-05 08:23:36,1
+3323,055pym104,Chief Financial Officers Survey (CAIO Instrument),CATI,Pymnts,56,,1,0,,2025-02-04 05:30:00,2025-02-14 05:30:00,"10 days, 0:00:00",Project Initiated,,Saransh Sharma,Reeti Sharma,2025-02-05 08:21:01,1
+3322,002sym011,SYM2401409 BuilderSeries 2025 - February,CATI,Symmetric Sampling,43,,1,0,,2025-02-04 05:30:00,2025-02-18 05:30:00,"14 days, 0:00:00",Project Initiated,,Saransh Sharma,Ankit Narang,2025-02-05 08:19:25,1
+3321,083glo093,"CCP4416 Dairy Interviews (CHE, ICLD, LU)",IDI,Global Data,234,,1,0,,2025-02-04 05:30:00,2025-02-11 05:30:00,"7 days, 0:00:00",Project Initiated,,Gaurav Prashant Saxena,Vishal Pathak,2025-02-04 16:20:16,1
+3320,001glg804,[Unimrkt | GLG] VDI Market,CATI,GLG,51,,1,0,,2025-02-03 05:30:00,2025-02-17 05:30:00,"14 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-02-04 04:18:46,1
+3319,001glg803,UM_glg | Mercury Bank Customer Survey,CATI,GLG,49,,1,0,,2025-02-03 05:30:00,2025-02-21 05:30:00,"18 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-02-04 04:17:43,1
+3318,001glg802,UM_GLG | Exome Sequencing (Survey #609120),CATI,GLG,70,,1,0,,2025-02-03 05:30:00,2025-02-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Shivani Hanjura,2025-02-04 04:15:45,1
+3317,001glg801,GLG Feasibility Request - Data Centres,CATI,GLG,49,,1,0,,2025-02-03 05:30:00,2025-02-21 05:30:00,"18 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-02-04 04:14:42,1
+3316,083glo092,CCP4583 - Wellness Market in Mexico (Additional 9,IDI,Global Data,345,,1,0,,2025-01-31 05:30:00,2025-02-07 05:30:00,"7 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Vishal Pathak,2025-02-03 15:46:06,1
+3315,071wer087,Home Centers (464),CATI,Werk Insights,0,,1,0,,2025-01-28 05:30:00,2025-02-28 05:30:00,"31 days, 0:00:00",In Progress,,Saransh Sharma,Ankit Narang,2025-02-03 09:12:15,1
+3314,004rot034,Upwork Business January 2025,CATI,Roth MKM,32,,1,0,,2025-01-31 05:30:00,2025-02-14 05:30:00,"14 days, 0:00:00",Project Initiated,,Saransh Sharma,Reeti Sharma,2025-02-03 09:09:00,1
+3313,036inn064,INV168340 - US & JP,CATI,Innovate MR,75,,1,0,,2025-01-31 05:30:00,2025-02-13 05:30:00,"13 days, 0:00:00",Project Initiated,,Saransh Sharma,Shivani Hanjura,2025-02-03 09:08:27,1
+3312,003pot243,survey quotation ICT DM's in Saudi,CATI,potloc,42,,1,0,,2025-01-31 05:30:00,2025-02-07 05:30:00,"7 days, 0:00:00",In Progress,,Saransh Sharma,Jagdeep Yadav,2025-02-03 09:07:41,1
+3311,001glg800,Network Survey- Satellites: GLG Feasibility Reques,CATI,GLG,51,,1,0,,2025-01-31 05:30:00,2025-02-07 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-02-03 09:07:04,1
+3310,001glg799,Corporate & Fund Services,CATI,GLG,50,,1,0,,2025-01-31 05:30:00,2025-02-14 05:30:00,"14 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-02-03 09:06:26,1
+3309,004rot033,New project opportunities....ROTH | QSG Greek Rest,CATI,Roth MKM,46,,1,0,,2025-01-31 05:30:00,2025-02-11 05:30:00,"11 days, 0:00:00",Project Initiated,,Saransh Sharma,Reeti Sharma,2025-02-03 09:05:41,1
+3308,029emi041,UC Tracker – Q1 2025 IO# 67027,CATI,EMI Research Soultions,65,,1,0,,2025-01-31 05:30:00,2025-02-21 05:30:00,"21 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-02-03 09:05:01,1
+3307,006oxf071,IBV 2025 CEO Survey (CXO Series - Survey 1),CATI,Oxford Economics,46,,1,0,,2025-01-30 05:30:00,2025-03-27 05:30:00,"56 days, 0:00:00",To Be Started,,Gaurav Prashant Saxena,Ankit Narang,2025-01-31 17:36:23,1
+3306,103ber112,MFOUR Tracking Study,CATI,Beresford Research,38,,1,0,,2025-01-23 05:30:00,2025-02-20 05:30:00,"28 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Jagdeep Yadav,2025-01-31 16:15:07,1
+3305,103ber111,NIM Voice of the Leaders of Today (2025) Survey,CATI,Beresford Research,40,,1,0,,2025-01-23 05:30:00,2025-02-24 05:30:00,"32 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Jagdeep Yadav,2025-01-31 16:12:21,1
+3304,001glg798,Unimrkt - Trellix,CATI,GLG,49,,1,0,,2025-01-30 05:30:00,2025-02-07 05:30:00,"8 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-31 06:22:26,1
+3303,001glg797,Mass Spectrometry Brand Study (Survey #608943),CATI,GLG,75,,1,0,,2025-01-30 05:30:00,2025-02-07 05:30:00,"8 days, 0:00:00",To Be Started,,Saransh Sharma,Dipika Maheshwari,2025-01-31 06:21:53,1
+3302,003pot242,"New RFQ - Innovation, Engineering, R&D Departments",CATI,potloc,44,,1,0,,2025-01-30 05:30:00,2025-02-07 05:30:00,"8 days, 0:00:00",To Be Started,,Saransh Sharma,Jagdeep Yadav,2025-01-31 06:21:13,1
+3301,001glg796,Piping Systems,CATI,GLG,48,,1,0,,2025-01-29 05:30:00,2025-02-06 05:30:00,"8 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-31 06:19:52,1
+3300,001glg795,Political Monitoring & Insights Software,CATI,GLG,48,,1,0,,2025-01-29 05:30:00,2025-02-07 05:30:00,"9 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-31 06:19:19,1
+3299,036inn063,INV165940 INTL-Unimrkt CATI,CATI,Innovate MR,35,,1,0,,2025-01-29 05:30:00,2025-02-05 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Saurabh Malik,2025-01-31 06:18:49,1
+3298,001glg794,Professional Services Space (Survey #) January 202,CATI,GLG,50,,1,0,,2025-01-29 05:30:00,2025-02-07 05:30:00,"9 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-01-31 06:18:13,1
+3297,001glg793,Trends in Chemical Usage - Oct 2024 (Survey#608477,CATI,GLG,40,,1,0,,2025-01-29 05:30:00,2025-02-13 05:30:00,"15 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-01-31 06:17:33,1
+3296,029emi040,Unimrkt: Verzenio US BC Consumer Tracker 2025 IO#,CATI,EMI Research Soultions,68,,1,0,,2025-01-29 05:30:00,2025-02-07 05:30:00,"9 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-01-31 06:16:31,1
+3295,081col090,HUMAN TO AI AGENT STUDY (CP4179),IDI,Coleman Parkes,650,,1,0,,2025-01-27 05:30:00,2025-02-14 05:30:00,"18 days, 0:00:00",To Be Started,,Gaurav Prashant Saxena,Vishal Pathak,2025-01-30 18:44:40,1
+3294,071wer086,Investment data professionals (436),CATI,Werk Insights,45,,1,0,,2025-01-28 05:30:00,2025-02-12 05:30:00,"15 days, 0:00:00",To Be Started,,Saransh Sharma,Ankit Narang,2025-01-30 04:25:35,1
+3293,007qua079,Qual3654-1207-LegalTrends2023[CS] | Wave 2,CATI,Qualtrics,42,,1,0,,2025-01-28 05:30:00,2025-02-04 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Reeti Sharma,2025-01-30 04:21:50,1
+3292,004rot032,QSG New project - Floor Contractors and General Co,CATI,Roth MKM,45,,1,0,,2025-01-27 05:30:00,2025-02-03 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Reeti Sharma,2025-01-28 22:18:33,1
+3291,001glg792,Fiverr & Upwork Hiring Managers,CATI,GLG,49,,1,0,,2025-01-27 05:30:00,2025-02-07 05:30:00,"11 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-28 22:17:50,1
+3290,001glg791,Banking Technology,CATI,GLG,50,,1,0,,2025-01-27 05:30:00,2025-02-03 05:30:00,"7 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-28 22:17:18,1
+3289,001glg790,Tech and Telecom Industry Study,CATI,GLG,51,,1,0,,2025-01-27 05:30:00,2025-02-07 05:30:00,"11 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-28 22:16:44,1
+3288,001glg789,Retail Project Management Software (Survey #608850,CATI,GLG,49,,1,0,,2025-01-27 05:30:00,2025-02-03 05:30:00,"7 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-28 22:15:33,1
+3287,112pro125,AAC Survey,CATI,proSapient,0,,1,0,,2025-01-14 05:30:00,2025-01-31 05:30:00,"17 days, 0:00:00",In Progress,,Christopher Schaedel,Dipika Maheshwari,2025-01-28 01:27:46,1
+3286,112pro124,Geotechnical service industry,CATI,proSapient,52,,1,0,,2025-01-14 05:30:00,2025-01-31 05:30:00,"17 days, 0:00:00",Completed,,Christopher Schaedel,Navneet Tiwari,2025-01-28 01:20:09,1
+3285,112pro123,Capitol Markets Software,CATI,proSapient,48,,1,0,,2025-01-14 05:30:00,2025-02-06 05:30:00,"23 days, 0:00:00",In Progress,,Christopher Schaedel,Navneet Tiwari,2025-01-28 00:58:21,1
+3284,112pro122,Auction Platforms,CATI,proSapient,58,,1,0,,2025-01-14 05:30:00,2025-01-24 05:30:00,"10 days, 0:00:00",Project Initiated,,Christopher Schaedel,Navneet Tiwari,2025-01-28 00:48:57,1
+3283,112pro121,IT infrastructure,CATI,proSapient,52,,1,0,,2025-01-14 05:30:00,2025-01-31 05:30:00,"17 days, 0:00:00",On Hold,,Christopher Schaedel,Navneet Tiwari,2025-01-28 00:43:51,1
+3282,112pro120,i4CP community,CATI,proSapient,51,,1,0,,2025-01-14 05:30:00,2025-01-31 05:30:00,"17 days, 0:00:00",On Hold,,Christopher Schaedel,Navneet Tiwari,2025-01-28 00:35:21,1
+3281,112pro119,Fire protection services,CATI,proSapient,50,,1,0,,2025-01-14 05:30:00,2025-01-31 05:30:00,"17 days, 0:00:00",Completed,,Christopher Schaedel,Navneet Tiwari,2025-01-27 23:11:36,1
+3279,001glg788,UM_GLG | Veeva: Current and Future Usage and Trend,CATI,GLG,51,,1,0,,2025-01-24 05:30:00,2025-02-06 05:30:00,"13 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:48:17,1
+3278,063rep094,[REP-072419616] Rep Data | International Automatio,CATI,Rep Data,44,,1,0,,2025-01-24 05:30:00,2025-02-17 05:30:00,"24 days, 0:00:00",In Progress,,Saransh Sharma,Jagdeep Yadav,2025-01-25 02:47:43,1
+3277,001glg787,Edgebanding Survey,CATI,GLG,48,,1,0,,2025-01-24 05:30:00,2025-01-31 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:46:58,1
+3276,036inn062,INV151596- INTL - Unimrkt CATI,CATI,Innovate MR,42,,1,0,,2025-01-24 05:30:00,2025-02-14 05:30:00,"21 days, 0:00:00",In Progress,,Saransh Sharma,Saurabh Malik,2025-01-25 02:46:15,1
+3275,036inn061,INV162651 -  US - Unimrkt,CATI,Innovate MR,55,,1,0,,2025-01-24 05:30:00,2025-02-21 05:30:00,"28 days, 0:00:00",To Be Started,,Saransh Sharma,Saurabh Malik,2025-01-25 02:45:01,1
+3274,036inn060,INV162651 -  US - Unimrkt,CATI,Innovate MR,55,,1,0,,2025-01-24 05:30:00,2025-02-21 05:30:00,"28 days, 0:00:00",To Be Started,,Saransh Sharma,Saurabh Malik,2025-01-25 02:45:00,1
+3273,007qua078,qual5318-2105-Grundfos-ALL OF US-Brandtrack2024,Online,Qualtrics,28,,1,0,,2025-01-24 05:30:00,2025-02-07 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Pankaj Nandolia,2025-01-25 02:42:46,1
+3272,001glg786,Wheel Pros customers,CATI,GLG,50,,1,0,,2025-01-24 05:30:00,2025-01-31 05:30:00,"7 days, 0:00:00",On Hold,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:41:38,1
+3271,001glg785,Digital Benchmarking Survey,CATI,GLG,49,,1,0,,2025-01-23 05:30:00,2025-02-07 05:30:00,"15 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:33:28,1
+3270,003pot241,2927a - Uni - Re: RFQ Potloc: Kitchen Manufacturer,CATI,potloc,42,,1,0,,2025-01-23 05:30:00,2025-02-05 05:30:00,"13 days, 0:00:00",On Hold,,Saransh Sharma,Jagdeep Yadav,2025-01-25 02:32:39,1
+3269,001glg784,Asset Management,CATI,GLG,51,,1,0,,2025-01-23 05:30:00,2025-02-06 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:31:56,1
+3268,071wer085,RFQ: Fleets utilizing telematics,CATI,Werk Insights,46,,1,0,,2025-01-23 05:30:00,2025-02-14 05:30:00,"22 days, 0:00:00",In Progress,,Saransh Sharma,Ankit Narang,2025-01-25 02:30:51,1
+3267,001glg783,Electrical Equipment Technicians,CATI,GLG,50,,1,0,,2025-01-23 05:30:00,2025-02-06 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:30:10,1
+3266,001glg782,Farmers - China Biostimulants Study,CATI,GLG,58,,1,0,,2025-01-23 05:30:00,2025-01-30 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:29:34,1
+3265,001glg781,Aerospace Parts Manufacturing,CATI,GLG,50,,1,0,,2025-01-23 05:30:00,2025-02-06 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:28:47,1
+3264,003pot240,Infusion pumps (MedTech),CATI,potloc,68,,1,0,,2025-01-23 05:30:00,2025-01-31 05:30:00,"8 days, 0:00:00",In Progress,,Saransh Sharma,Dipika Maheshwari,2025-01-25 02:27:11,1
+3263,003pot239,AI impact KPI's survey quotation,CATI,potloc,39,,1,0,,2025-01-23 05:30:00,2025-01-30 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Jagdeep Yadav,2025-01-25 02:26:09,1
+3262,001glg780,Grocery Retailer Category Buyers,CATI,GLG,51,,1,0,,2025-01-23 05:30:00,2025-02-07 05:30:00,"15 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-25 02:24:21,1
+3261,003pot238,2922a - Uni - Re: Potloc Survey - Benefits & HR,CATI,potloc,41,,1,0,,2025-01-22 05:30:00,2025-01-29 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Jagdeep Yadav,2025-01-25 02:22:06,1
+3260,114kre116,Unimrkt Response_RFQ :: VKR22125JC01 - unimrkt,Online,Krea,11,,1,0,,2025-01-24 05:30:00,2025-02-07 05:30:00,"14 days, 0:00:00",In Progress,,Frank Gervasi,Pankaj Nandolia,2025-01-25 00:25:50,1
+3259,114kre115,Unimrkt Response_RFQ VKR16125RM01 - 1116548 Wine,Online,Krea,5,,1,0,,2025-01-24 05:30:00,2025-02-07 05:30:00,"14 days, 0:00:00",In Progress,,Frank Gervasi,Pankaj Nandolia,2025-01-25 00:24:28,1
+3258,113cel114,FRAML Survey/Bank Compliance Survey,CATI,Celent,48,750,1,0,,2025-01-28 05:30:00,2025-02-04 05:30:00,"7 days, 0:00:00",To Be Started,,Frank Gervasi,Ankit Narang,2025-01-24 23:23:59,1
+3253,063rep093,Electrical Technicians Study (REP-012524290),CATI,Rep Data,48,,1,0,,2025-01-22 05:30:00,2025-02-06 05:30:00,"15 days, 0:00:00",In Progress,,Saransh Sharma,Jagdeep Yadav,2025-01-23 19:39:16,1
+3252,105ron108,HEALTHCARE PROFESSIONALS STUDY,CATI,Ronin International,0,,1,0,,2025-01-22 05:30:00,2025-02-06 05:30:00,"15 days, 0:00:00",Project Initiated,,Gaurav Prashant Saxena,Shivani Hanjura,2025-01-23 17:35:59,1
+3251,004rot031,Potential new project - Digital Ad Buyers Wave 5,CATI,Roth MKM,41,,1,0,,2025-01-23 05:30:00,2025-02-07 05:30:00,"15 days, 0:00:00",In Progress,,Saransh Sharma,Saurabh Malik,2025-01-23 04:26:19,1
+3250,001glg779,Commercial Loan Servicing,CATI,GLG,50,,1,0,,2025-01-23 05:30:00,2025-02-06 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-23 04:25:34,1
+3249,001glg778,Network Survey - Biofuels V,CATI,GLG,50,,1,0,,2025-01-22 05:30:00,2025-02-06 05:30:00,"15 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-01-23 04:24:43,1
+3248,004rot030,New H/C study: request for estimate....QSG: Pulmon,CATI,Roth MKM,78,,1,0,,2025-01-21 05:30:00,2025-02-03 05:30:00,"13 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-01-23 04:19:01,1
+3247,093app097,New B2B HR coaching,CATI,Appinio,33,,1,0,,2025-01-15 05:30:00,2025-01-29 05:30:00,"14 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Pankaj Nandolia,2025-01-22 19:46:12,1
+3246,006oxf070,IBM Global Pulse Wave 8 CFOs Use of AI 2024 Survey,CATI,Oxford Economics,37,,1,0,,2025-01-06 05:30:00,2025-02-03 05:30:00,"28 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Ankit Narang,2025-01-22 19:22:50,1
+3245,006oxf069,IBV Grid Modernization Survey,CATI,Oxford Economics,46,,1,0,,2025-01-01 05:30:00,2025-02-12 05:30:00,"42 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Ankit Narang,2025-01-22 19:20:08,1
+3244,006oxf068,IBM 2025 Talent and Skills Survey,CATI,Oxford Economics,46,,1,0,,2025-01-01 05:30:00,2025-02-21 05:30:00,"51 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Reeti Sharma,2025-01-22 19:12:40,1
+3243,004rot029,New B2B project opportunity....ROTH | QSG,CATI,Roth MKM,44,,1,0,,2025-01-20 05:30:00,2025-01-27 05:30:00,"7 days, 0:00:00",In Progress,,Saransh Sharma,Reeti Sharma,2025-01-22 05:00:27,1
+3242,001glg777,Network Survey - Solar Panels II,CATI,GLG,50,,1,0,,2025-01-20 05:30:00,2025-02-06 05:30:00,"17 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-22 04:59:57,1
+3241,001glg776,PCP survey,CATI,GLG,49,,1,0,,2025-01-20 05:30:00,2025-01-27 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Navneet Tiwari,2025-01-22 04:57:55,1
+3240,001glg775,Fire and Life Safety Service,CATI,GLG,49,,1,0,,2025-01-20 05:30:00,2025-02-06 05:30:00,"17 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-22 04:57:16,1
+3239,001glg774,Telco Industry CEOs & CSOs - Dec 2024 (Survey#6086,CATI,GLG,40,,1,0,,2025-01-20 05:30:00,2025-02-06 05:30:00,"17 days, 0:00:00",On Hold,,Saransh Sharma,Navneet Tiwari,2025-01-22 04:54:57,1
+3238,003pot237,Online tradesman directory platform,CATI,potloc,38,,1,0,,2025-01-20 05:30:00,2025-02-03 05:30:00,"14 days, 0:00:00",On Hold,,Saransh Sharma,Jagdeep Yadav,2025-01-22 04:53:46,1
+3237,001glg773,Imagers and Scanners in 2024 - 608240,CATI,GLG,75,,1,0,,2025-01-17 05:30:00,2025-01-31 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Dipika Maheshwari,2025-01-22 00:32:33,1
+3236,003pot236,2929a - Uni - Re: Potloc - Roadside Assistance Sur,CATI,potloc,42,,1,0,,2025-01-17 05:30:00,2025-01-24 05:30:00,"7 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-22 00:31:38,1
+3235,001glg772,GLG - Unimrkt - Heaters,CATI,GLG,49,,1,0,,2025-01-16 05:30:00,2025-02-06 05:30:00,"21 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-22 00:29:52,1
+3234,074ath100,Cell Therapy,CATI,Atheneum,80,,1,0,,2025-01-08 05:30:00,2025-01-16 05:30:00,"8 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-21 23:34:56,1
+3233,074ath099,Lyme Disease Study,CATI,Atheneum,80,,1,0,,2025-01-09 05:30:00,2025-01-20 05:30:00,"11 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-21 23:28:44,1
+3232,074ath098,Public Channel Sizing,CATI,Atheneum,78,,1,0,,2025-01-09 05:30:00,2025-01-20 05:30:00,"11 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-21 23:23:52,1
+3231,074ath097,Dysphagia Prostate Cancer Quant,CATI,Atheneum,65,,1,0,,2025-01-08 05:30:00,2025-01-15 05:30:00,"7 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-21 23:20:28,1
+3230,074ath096,Demand Study HCP Survey,CATI,Atheneum,80,,1,0,,2025-01-09 05:30:00,2025-01-16 05:30:00,"7 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-21 23:14:57,1
+3229,074ath095,Transplant Nephrology Study,CATI,Atheneum,80,,1,0,,2025-01-09 05:30:00,2025-01-20 05:30:00,"11 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-21 23:11:17,1
+3228,074ath094,RDAN Quant AP166869,CATI,Atheneum,85,,1,0,,2025-01-10 05:30:00,2025-02-10 05:30:00,"31 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-21 23:08:24,1
+3226,074ath093,Vaccine Study,CATI,Atheneum,95,,1,0,,2025-01-03 05:30:00,2025-01-30 05:30:00,"27 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-20 23:37:15,1
+3225,074ath092,Office & Support Staff Study,CATI,Atheneum,82,,1,0,,2025-01-06 05:30:00,2025-01-13 05:30:00,"7 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-20 23:30:58,1
+3224,074ath091,KAMs Study Quant,CATI,Atheneum,82,,1,0,,2025-01-06 05:30:00,2025-01-30 05:30:00,"24 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-20 21:23:01,1
+3223,074ath090,Fertility specialists,CATI,Atheneum,70,,1,0,,2025-01-02 05:30:00,2025-01-13 05:30:00,"11 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-20 21:20:33,1
+3222,074ath089,Gig Workers Survey,CATI,Atheneum,30,,1,0,,2025-12-02 05:30:00,2025-12-30 05:30:00,"28 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-20 21:17:32,1
+3221,074ath088,Surgical Product Procurement,CATI,Atheneum,40,,1,0,,2025-01-03 05:30:00,2025-12-31 05:30:00,"362 days, 0:00:00",Project Initiated,,oyewalerotimi oketunji,Shivani Hanjura,2025-01-20 21:07:02,1
+3220,083glo091,CCP3719 - Aluminium Market Data _ITALY,IDI,Global Data,293,,1,0,,2025-01-17 05:30:00,2025-01-22 05:30:00,"5 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Vishal Pathak,2025-01-20 15:50:34,1
+3218,036inn059,INV153276-US-Unimrkt CATI,CATI,Innovate MR,22,,1,0,,2025-01-15 05:30:00,2025-02-05 05:30:00,"21 days, 0:00:00",In Progress,,Saransh Sharma,Saurabh Malik,2025-01-16 02:14:08,1
+3217,007qua077,Qual550434-1115-HCProviders | Unimrkt,CATI,Qualtrics,45,,1,0,,2025-01-15 05:30:00,2025-02-12 05:30:00,"28 days, 0:00:00",In Progress,,Saransh Sharma,Ankit Narang,2025-01-16 02:13:14,1
+3216,003pot235,speech-language pathologists USA,CATI,potloc,72,,1,0,,2025-01-15 05:30:00,2025-01-22 05:30:00,"7 days, 0:00:00",In Progress,,Saransh Sharma,Dipika Maheshwari,2025-01-16 02:12:06,1
+3215,002sym010,SYM250035 Bid Requests Builders in CA & Contractor,CATI,Symmetric Sampling,43,,1,0,,2025-01-15 05:30:00,2025-02-05 05:30:00,"21 days, 0:00:00",In Progress,,Saransh Sharma,Reeti Sharma,2025-01-16 02:11:13,1
+3214,007qua076,Qual11605-0919-HartfordResidents-[AB],CATI,Qualtrics,20,,1,0,,2025-01-15 05:30:00,2025-01-29 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Reeti Sharma,2025-01-16 02:10:02,1
+3213,036inn058,INVTMRFAS - US - Unimrkt CATI - INV165972,CATI,Innovate MR,90,,1,0,,2025-01-14 05:30:00,2025-01-30 05:30:00,"16 days, 0:00:00",In Progress,,Saransh Sharma,Dipika Maheshwari,2025-01-16 02:06:21,1
+3212,001glg771,Fintech and Banks,CATI,GLG,49,,1,0,,2025-01-14 05:30:00,2025-02-04 05:30:00,"21 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-16 02:05:29,1
+3211,003pot234,RfQ - B2B: sanitary fittings,CATI,potloc,42,,1,0,,2025-01-14 05:30:00,2025-02-03 05:30:00,"20 days, 0:00:00",In Progress,,Saransh Sharma,Jagdeep Yadav,2025-01-16 02:04:32,1
+3210,003pot233,Urgent RFQ - Auction platforms,CATI,potloc,42,,1,0,,2025-01-14 05:30:00,2025-02-03 05:30:00,"20 days, 0:00:00",In Progress,,Saransh Sharma,Jagdeep Yadav,2025-01-16 02:03:40,1
+3209,001glg770,Used Equipment --EMEA PSF,CATI,GLG,49,,1,0,,2025-01-14 05:30:00,2025-02-06 05:30:00,"23 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-16 02:00:39,1
+3208,055pym103,The ad hoc senders survey is ready to re-run,CATI,Pymnts,60,,1,0,,2025-01-14 05:30:00,2025-01-28 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Reeti Sharma,2025-01-16 01:58:44,1
+3207,007qua075,Qual550434-1205-RegionalHealthPlan,CATI,Qualtrics,44,,1,0,,2025-01-14 05:30:00,2025-02-05 05:30:00,"22 days, 0:00:00",In Progress,,Saransh Sharma,Reeti Sharma,2025-01-16 01:57:05,1
+3206,003pot232,2901a - Uni - Re: Potloc Request - Field Managemen,CATI,potloc,38,,1,0,,2025-01-14 05:30:00,2025-01-23 05:30:00,"9 days, 0:00:00",On Hold,,Saransh Sharma,Jagdeep Yadav,2025-01-16 01:55:47,1
+3205,003pot231,2914a - Uni - Re: Potloc 1/9 Launch - EdTech Surve,CATI,potloc,42,,1,0,,2025-01-14 05:30:00,2025-01-21 05:30:00,"7 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-16 01:55:04,1
+3202,003pot230,Potloc B2B Project - Solvent Recovery Units (SRU).,CATI,potloc,38,,1,0,,2025-01-14 05:30:00,2025-02-07 05:30:00,"24 days, 0:00:00",In Progress,,Saransh Sharma,Jagdeep Yadav,2025-01-15 05:49:49,1
+3201,036inn057,INV168046- US - Unimrkt CATI,CATI,Innovate MR,77,,1,0,,2025-01-14 05:30:00,2025-01-17 05:30:00,"3 days, 0:00:00",To Be Started,,Saransh Sharma,Dipika Maheshwari,2025-01-15 05:49:12,1
+3200,001glg769,Rental Real Estate Marketing,CATI,GLG,49,,1,0,,2025-01-13 05:30:00,2025-01-23 05:30:00,"10 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-15 05:48:18,1
+3199,001glg768,Real Estate Platforms,CATI,GLG,48,,1,0,,2025-01-13 05:30:00,2025-01-23 05:30:00,"10 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-15 05:47:39,1
+3198,007qua074,Qual73534399-1125-Legal[ME],CATI,Qualtrics,46,,1,0,,2025-01-13 05:30:00,2025-01-20 05:30:00,"7 days, 0:00:00",Completed,,Saransh Sharma,Ankit Narang,2025-01-15 05:47:02,1
+3197,036inn056,INV167842 - College Faculty,CATI,Innovate MR,58,,1,0,,2025-01-13 05:30:00,2025-02-04 05:30:00,"22 days, 0:00:00",Completed,,Saransh Sharma,Saurabh Malik,2025-01-15 05:46:28,1
+3196,001glg767,HVAC Electronic Equipments,CATI,GLG,49,,1,0,,2025-01-13 05:30:00,2025-02-06 05:30:00,"24 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-15 05:45:41,1
+3195,001glg766,Network Survey - Pharmaceutical CDMOs,CATI,GLG,49,,1,0,,2025-01-13 05:30:00,2025-01-28 05:30:00,"15 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-15 05:45:09,1
+3194,003pot229,BtoB luxury manufacturers in Italy - 31705894582,CATI,potloc,38,,1,0,,2025-01-13 05:30:00,2025-01-31 05:30:00,"18 days, 0:00:00",In Progress,,Saransh Sharma,Jagdeep Yadav,2025-01-15 05:44:18,1
+3192,006oxf067,IBV OPERATIONALIZING AI QUALITATIVE SURVEY,IDI,Oxford Economics,0,,1,0,,2025-01-13 05:30:00,2025-02-17 05:30:00,"35 days, 0:00:00",On Hold,,Gaurav Prashant Saxena,Vishal Pathak,2025-01-13 18:02:33,1
+3191,014b2b023,Coffee Manufacturer & Retailer,IDI,B2B International,775,,1,0,,2025-01-13 05:30:00,2025-01-31 05:30:00,"18 days, 0:00:00",Completed,,Alexander parkman,Vishal Pathak,2025-01-13 18:02:05,1
+3190,083glo090,CCP4583 - Wellness Market in Mexico,IDI,Global Data,345,,1,0,,2025-01-06 05:30:00,2025-01-27 05:30:00,"21 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Vishal Pathak,2025-01-13 17:56:33,1
+3186,035har047,Anthropic / Microsoft Certificates,Online,Harmon,12,,1,0,,2025-01-10 05:30:00,2025-01-16 05:30:00,"6 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2025-01-11 02:42:58,1
+3185,035har046,2025_1003351_NA Airport W6,Online,Harmon,6,,1,0,,2025-01-10 05:30:00,2025-01-17 05:30:00,"7 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2025-01-11 02:42:24,1
+3184,001glg765,Mobile Phlebotomy Space - US - Unimrkt,CATI,GLG,50,,1,0,,2025-01-10 05:30:00,2025-02-06 05:30:00,"27 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-11 02:41:24,1
+3183,001glg764,Map and Geospatial Services - India - Unimrkt,CATI,GLG,49,,1,0,,2025-01-10 05:30:00,2025-01-23 05:30:00,"13 days, 0:00:00",On Hold,,Saransh Sharma,Navneet Tiwari,2025-01-11 02:40:29,1
+3182,035har045,2024-027 UT JH Academic - JAN,Online,Harmon,20,,1,0,,2025-01-09 05:30:00,2025-02-07 05:30:00,"29 days, 0:00:00",On Hold,,Saransh Sharma,Pankaj Nandolia,2025-01-11 02:28:55,1
+3181,093app096,B2B Education sector study,CATI,Appinio,46,,1,0,,2025-01-10 05:30:00,2025-01-20 05:30:00,"10 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Saurabh Malik,2025-01-10 20:55:17,1
+3180,006oxf066,IBM Payments Benchmarking survey,CATI,Oxford Economics,95,,1,0,,2025-01-10 05:30:00,2025-02-21 05:30:00,"42 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Pankaj Nandolia,2025-01-10 17:13:38,1
+3179,006oxf065,IBV 2025 Chief AI Survey,CATI,Oxford Economics,46,,1,0,,2025-01-10 05:30:00,2025-02-11 05:30:00,"32 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Pankaj Nandolia,2025-01-10 17:09:26,1
+3178,001glg763,Cloud Video Security Solutions,CATI,GLG,49,,1,0,,2025-01-09 05:30:00,2025-02-06 05:30:00,"28 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-10 04:25:48,1
+3177,001glg762,Pain Treatment Landscape (Survey #608167),CATI,GLG,76,,1,0,,2025-01-09 05:30:00,2025-01-17 05:30:00,"8 days, 0:00:00",In Progress,,Saransh Sharma,Dipika Maheshwari,2025-01-10 04:24:07,1
+3176,063rep092,Rep Data | College Faculty Feasibility | REP-01252,CATI,Rep Data,40,,1,0,,2025-01-09 05:30:00,2025-01-28 05:30:00,"19 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-10 04:19:10,1
+3175,001glg761,US Hotel Franchisee,CATI,GLG,50,,1,0,,2025-01-09 05:30:00,2025-02-06 05:30:00,"28 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-10 04:13:39,1
+3174,055pym102,CFO Monitor - Phase 12,CATI,Pymnts,56,,1,0,,2025-01-09 05:30:00,2025-01-21 05:30:00,"12 days, 0:00:00",Completed,,Saransh Sharma,Reeti Sharma,2025-01-10 04:13:01,1
+3173,001glg760,Counterparty Risk - (Survey #608568),CATI,GLG,49,,1,0,,2025-01-09 05:30:00,2025-01-28 05:30:00,"19 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-10 04:12:25,1
+3171,003pot227,Tissue topic - B2B scope,CATI,potloc,42,,1,0,,2025-01-09 05:30:00,2025-01-20 05:30:00,"11 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-10 04:11:43,1
+3170,003pot226,Car dealers in the UK,CATI,potloc,42,,1,0,,2025-01-09 05:30:00,2025-01-30 05:30:00,"21 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-10 04:11:07,1
+3169,001glg759,Urgent Survey Feasibility: Dive Shop / Scuba shop,CATI,GLG,50,,1,0,,2025-01-09 05:30:00,2025-01-28 05:30:00,"19 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-10 04:09:07,1
+3168,112pro118,Horse Owners,CATI,proSapient,49,,1,0,,2025-01-09 05:30:00,2025-02-05 05:30:00,"27 days, 0:00:00",On Hold,,Christopher Schaedel,Navneet Tiwari,2025-01-10 02:40:48,1
+3167,112pro117,Allergy Specialists,CATI,proSapient,65,,1,0,,2025-01-09 05:30:00,2025-01-31 05:30:00,"22 days, 0:00:00",In Progress,,Christopher Schaedel,Dipika Maheshwari,2025-01-10 02:39:14,1
+3166,112pro116,Horses vet clinic,CATI,proSapient,70,,1,0,,2025-01-09 05:30:00,2025-01-24 05:30:00,"15 days, 0:00:00",In Progress,,Christopher Schaedel,Dipika Maheshwari,2025-01-10 02:37:59,1
+3165,112pro115,Performance Transformation,CATI,proSapient,51,,1,0,,2025-01-13 05:30:00,2025-02-28 05:30:00,"46 days, 0:00:00",In Progress,,Christopher Schaedel,Navneet Tiwari,2025-01-10 02:34:17,1
+3164,112pro114,Association Management Software,CATI,proSapient,45,,1,0,,2025-01-02 05:30:00,2025-02-07 05:30:00,"36 days, 0:00:00",Completed,,Christopher Schaedel,Navneet Tiwari,2025-01-10 02:31:34,1
+3163,112pro113,UTV purchasing decision makers,CATI,proSapient,56,,1,0,,2025-01-02 05:30:00,2025-01-21 05:30:00,"19 days, 0:00:00",To Be Started,,Christopher Schaedel,Navneet Tiwari,2025-01-10 02:29:06,1
+3162,005cin021,Opinion Leaders/Emerging Leaders Unimarket / Cint,CATI,Cint,46,,1,0,,2025-01-03 05:30:00,2025-01-24 05:30:00,"21 days, 0:00:00",Completed,,Frank Gervasi,Ishika Qaiser,2025-01-10 00:28:21,1
+3161,001glg758,AI Maturity,CATI,GLG,51,,1,0,,2024-12-16 05:30:00,2025-01-31 05:30:00,"46 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-09 09:43:42,1
+3158,003pot225,Language Learning Survey,CATI,potloc,36,,1,0,,2024-12-16 05:30:00,2025-01-20 05:30:00,"35 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-09 09:40:56,1
+3156,007qua073,Qual1096-1112Project | Unimrkt,CATI,Qualtrics,85,,1,0,,2024-12-16 05:30:00,2025-01-07 05:30:00,"22 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-01-09 09:39:36,1
+3155,078emi080,China Thread IgAN (Berger's Disease) - IO:64628.2,CATI,EMI,68,,1,0,,2024-12-16 05:30:00,2025-01-07 05:30:00,"22 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-01-09 09:38:59,1
+3154,029emi039,Japan Thread IgAN (Berger's Disease) - IO:64628.2,CATI,EMI Research Soultions,68,,1,0,,2024-12-16 05:30:00,2025-01-07 05:30:00,"22 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-01-09 09:38:02,1
+3153,029emi038,Canada Thread IgAN (Berger's Disease) - IO:64628.2,CATI,EMI Research Soultions,68,,1,0,,2024-12-16 05:30:00,2025-01-06 05:30:00,"21 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-01-09 09:37:15,1
+3150,063rep091,Manufacturers / Distributors - REP-122423683,CATI,Rep Data,54,,1,0,,2024-12-16 05:30:00,2025-02-07 05:30:00,"53 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-09 09:25:57,1
+3147,007qua072,Qual0000-0001Shippers | Unimrkt,Online,Qualtrics,20,,1,0,,2024-12-16 05:30:00,2025-02-07 05:30:00,"53 days, 0:00:00",On Hold,,Saransh Sharma,Pankaj Nandolia,2025-01-09 09:21:07,1
+3146,007qua071,Qual11605-1112-StMProducerSurvey (Soil to Market P,CATI,Qualtrics,38,,1,0,,2024-12-16 05:30:00,2025-02-17 05:30:00,"63 days, 0:00:00",In Progress,,Saransh Sharma,Ankit Narang,2025-01-09 09:15:40,1
+3145,003pot224,B2B Supply Chain,CATI,potloc,38,,1,0,,2024-12-16 05:30:00,2025-01-20 05:30:00,"35 days, 0:00:00",Completed,,Saransh Sharma,Saurabh Malik,2025-01-09 09:12:55,1
+3143,007qua070,Qual12192-0731-ambulatory[round2] | Unimrkt,CATI,Qualtrics,70,,1,0,,2024-12-16 05:30:00,2025-01-17 05:30:00,"32 days, 0:00:00",Project Initiated,,Saransh Sharma,Dipika Maheshwari,2025-01-09 09:09:00,1
+3141,035har039,PokerStars Study,Online,Harmon,7,,1,0,,2024-12-16 05:30:00,2025-02-01 05:30:00,"47 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2025-01-09 08:59:13,1
+3140,007qua069,Qual33687-0821-Autism-[JA] | Unimrkt,CATI,Qualtrics,25,,1,0,,2024-12-16 05:30:00,2025-01-31 05:30:00,"46 days, 0:00:00",In Progress,,Saransh Sharma,Reeti Sharma,2025-01-09 08:56:50,1
+3138,003pot223,alternative investment,CATI,potloc,42,,1,0,,2024-12-16 05:30:00,2025-01-20 05:30:00,"35 days, 0:00:00",Completed,,Saransh Sharma,Saurabh Malik,2025-01-09 08:49:16,1
+3137,006oxf064,IBV 2025 SAP EFFECTIVENESS STUDY,CATI,Oxford Economics,46,,1,0,,2025-01-08 05:30:00,2025-02-19 05:30:00,"42 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Jagdeep Yadav,2025-01-08 17:30:46,1
+3136,029emi037,UINV20240165_CHI & MIL Brand Awareness Study_PO# I,CATI,EMI Research Soultions,48,,1,0,,2025-01-07 05:30:00,2025-01-23 05:30:00,"16 days, 0:00:00",On Hold,,Saransh Sharma,Jagdeep Yadav,2025-01-08 06:12:43,1
+3135,001glg751,Investment executives survey - Oct 2024 (#),CATI,GLG,45,,1,0,,2025-01-07 05:30:00,2025-01-28 05:30:00,"21 days, 0:00:00",On Hold,,Saransh Sharma,Navneet Tiwari,2025-01-08 06:11:49,1
+3134,001glg750,"Testing, Inspection and Certification III",CATI,GLG,50,,1,0,,2025-01-07 05:30:00,2025-01-22 05:30:00,"15 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-08 06:11:04,1
+3133,038kan044,UM_91266071 Nationwide Brand Health Tracker - 1563,CATI,Kantar,55,,1,0,,2025-01-07 05:30:00,2025-01-20 05:30:00,"13 days, 0:00:00",On Hold,,Saransh Sharma,Jagdeep Yadav,2025-01-08 04:32:48,1
+3132,071wer084,Commercial Paint Decision-Makers,CATI,Werk Insights,46,,1,0,,2025-01-06 05:30:00,2025-02-14 05:30:00,"39 days, 0:00:00",In Progress,,Saransh Sharma,Ankit Narang,2025-01-07 06:06:54,1
+3131,001glg749,Acadia Healthcare Referral Trends Survey,CATI,GLG,76,,1,0,,2025-01-06 05:30:00,2025-01-20 05:30:00,"14 days, 0:00:00",In Progress,,Saransh Sharma,Dipika Maheshwari,2025-01-07 06:05:57,1
+3130,111big113,US3005490 Health Launchpad Medical Officer Researc,CATI,Big Village,49,,1,0,,2025-01-06 05:30:00,2025-01-23 05:30:00,"17 days, 0:00:00",In Progress,,Saransh Sharma,Saurabh Malik,2025-01-07 06:05:24,1
+3129,080sym088,SYM2401409 BuilderSeries 2025 - January,CATI,Symmetrics Sampling,43,,1,0,,2025-01-06 05:30:00,2025-01-20 05:30:00,"14 days, 0:00:00",Completed,,Saransh Sharma,Ankit Narang,2025-01-07 06:04:06,1
+3128,001glg748,Endonuclease Pricing - US CA EMEA (survey #608451),CATI,GLG,75,,1,0,,2025-01-06 05:30:00,2025-01-20 05:30:00,"14 days, 0:00:00",To Be Started,,Saransh Sharma,Dipika Maheshwari,2025-01-07 06:03:10,1
+3127,001glg747,Neonatology Treatment Landscape - (Survey #608733),CATI,GLG,78,,1,0,,2025-01-06 05:30:00,2025-01-13 05:30:00,"7 days, 0:00:00",To Be Started,,Saransh Sharma,Dipika Maheshwari,2025-01-07 06:02:36,1
+3126,001glg746,CEOs study :: Feasibility,CATI,GLG,51,,1,0,,2025-01-06 05:30:00,2025-02-20 05:30:00,"45 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-07 06:01:55,1
+3125,055pym101,Chief Financial Officers Survey (CAIO Instrument),CATI,Pymnts,56,,1,0,,2025-01-06 05:30:00,2025-01-21 05:30:00,"15 days, 0:00:00",Completed,,Saransh Sharma,Reeti Sharma,2025-01-07 06:01:22,1
+3124,001glg745,Business Technology Customers (January 2025),CATI,GLG,50,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-07 05:59:30,1
+3123,038kan042,UM COMM -- 91266096_Optum Brand Tracking (21249201,CATI,Kantar,112,,1,0,,2025-01-03 05:30:00,2025-01-17 05:30:00,"14 days, 0:00:00",To Be Started,,Saransh Sharma,Dipika Maheshwari,2025-01-07 05:58:50,1
+3122,001glg744,GLG Survey - IBM Platinum Partners Wave IV,CATI,GLG,50,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-07 05:57:46,1
+3121,108ine110,Kadro/Unimrkt | Global B2B Pricing Research [Kadro,CATI,Inex,56,,1,0,,2025-01-03 05:30:00,2025-01-14 05:30:00,"11 days, 0:00:00",To Be Started,,Saransh Sharma,Reeti Sharma,2025-01-07 05:57:06,1
+3120,081col089,Pharma Field Representatives,CATI,Coleman Parkes,0,,1,0,,2025-01-02 05:30:00,2025-02-05 05:30:00,"34 days, 0:00:00",To Be Started,,Gaurav Prashant Saxena,Dipika Maheshwari,2025-01-06 18:07:03,1
+3116,090har113,Business Study:: US Mortgage Origination- 1089230,Online,Harmon Research,7,,1,0,,2025-01-03 05:30:00,2025-02-07 05:30:00,"35 days, 0:00:00",In Progress,,Saransh Sharma,Pankaj Nandolia,2025-01-04 01:22:20,1
+3115,003pot222,parents or students in India,CATI,potloc,28,,1,0,,2025-01-03 05:30:00,2025-01-21 05:30:00,"18 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-04 01:11:21,1
+3114,001glg743,Database and Analytic software survey,CATI,GLG,48,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-04 01:06:59,1
+3113,001glg742,Moody’s and MSCI products (January 2025),CATI,GLG,50,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-04 00:54:39,1
+3112,001glg741,Pest Control Trends Wave 5,CATI,GLG,50,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-04 00:52:36,1
+3111,001glg740,MMSI Market Assessment (January 2025),CATI,GLG,49,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-04 00:45:58,1
+3110,001glg739,QuickBooks customers (Intuit IES Survey),CATI,GLG,49,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-04 00:44:40,1
+3109,001glg738,Locomotives and Railcars January 2025 Wave,CATI,GLG,50,,1,0,,2025-01-03 05:30:00,2025-01-10 05:30:00,"7 days, 0:00:00",Project Initiated,,Saransh Sharma,Navneet Tiwari,2025-01-04 00:40:30,1
+3108,004rot028,Tech Related Survey Wave 2 (NEW B2B project opport,CATI,Roth MKM,45,,1,0,,2025-01-02 05:30:00,2025-01-17 05:30:00,"15 days, 0:00:00",Completed,,Saransh Sharma,Reeti Sharma,2025-01-04 00:36:37,1
+3106,006oxf063,IBM P&C Insurance Claims Benchmarking Survey (Resc,CATI,Oxford Economics,95,,1,0,,2025-01-01 05:30:00,2025-02-07 05:30:00,"37 days, 0:00:00",In Progress,,Gaurav Prashant Saxena,Saurabh Malik,2025-01-03 15:06:42,1
+3105,006oxf062,Industrial decarbonization survey,CATI,Oxford Economics,46,,1,0,,2025-01-01 05:30:00,2025-01-31 05:30:00,"30 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Saurabh Malik,2025-01-03 15:04:56,1
+3104,104tho125,Broadridge Tokenization Survey,CATI,Thoughtlab group,36,,1,0,,2025-01-01 05:30:00,2025-01-31 05:30:00,"30 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Saurabh Malik,2025-01-03 15:03:35,1
+3103,006oxf061,TikTok US Study (TikTok Study November 2024),CATI,Oxford Economics,37,,1,0,,2025-01-01 05:30:00,2025-01-31 05:30:00,"30 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Jagdeep Yadav,2025-01-03 15:02:07,1
+3101,001glg736,ESG investors January 2025,CATI,GLG,56,,1,0,,2025-01-02 05:30:00,2025-02-07 05:30:00,"36 days, 0:00:00",In Progress,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:10:09,1
+3100,001glg735,Gynecological Device Survey (Survey #608226),CATI,GLG,75,,1,0,,2025-01-02 05:30:00,2025-01-15 05:30:00,"13 days, 0:00:00",Completed,,Saransh Sharma,Dipika Maheshwari,2025-01-03 05:09:14,1
+3099,001glg734,Network Survey- Holiday parks V,CATI,GLG,52,,1,0,,2025-01-02 05:30:00,2025-01-17 05:30:00,"15 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:08:33,1
+3098,001glg733,Network Survey- UK Supermarkets,CATI,GLG,52,,1,0,,2025-01-02 05:30:00,2025-01-17 05:30:00,"15 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:07:57,1
+3097,001glg732,Combustion/Gas Turbine Purchasing,CATI,GLG,49,,1,0,,2025-01-02 05:30:00,2025-01-09 05:30:00,"7 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:07:24,1
+3096,001glg731,Amazon 3P sellers (Survey# 608618),CATI,GLG,49,,1,0,,2025-01-02 05:30:00,2025-01-24 05:30:00,"22 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:06:02,1
+3095,001glg730,Manhattan Associates - supply chain management sof,CATI,GLG,49,,1,0,,2025-01-02 05:30:00,2025-01-23 05:30:00,"21 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:05:05,1
+3094,063rep090,Biz Shipping Software | REP-122423752,CATI,Rep Data,44,,1,0,,2025-01-02 05:30:00,2025-01-23 05:30:00,"21 days, 0:00:00",On Hold,,Saransh Sharma,Jagdeep Yadav,2025-01-03 05:03:55,1
+3093,001glg729,IT Resellers 2025,CATI,GLG,54,,1,0,,2025-01-02 05:30:00,2025-01-16 05:30:00,"14 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:03:17,1
+3092,001glg728,Network Survey- Waste Management III,CATI,GLG,50,,1,0,,2025-01-02 05:30:00,2025-01-22 05:30:00,"20 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:02:35,1
+3091,063rep089,CSM Study (urgent) REP-112422951,CATI,Rep Data,42,,1,0,,2025-01-02 05:30:00,2025-01-10 05:30:00,"8 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-03 05:01:42,1
+3090,013arc018,Yubico Survey,CATI,Arch Metrics,48,,1,0,,2025-01-02 05:30:00,2025-02-04 05:30:00,"33 days, 0:00:00",In Progress,,Saransh Sharma,Saurabh Malik,2025-01-03 05:00:44,1
+3089,001glg570,DME Continuous Glucose Monitoring Survey,CATI,GLG,49,,1,0,,2025-01-02 05:30:00,2025-01-17 05:30:00,"15 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2025-01-03 05:00:02,1
+3088,003pot221,BtoB in Europe - low carbon transition offering wa,CATI,potloc,44,,1,0,,2025-01-02 05:30:00,2025-01-21 05:30:00,"19 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2025-01-03 04:46:28,1
+3075,003pot218,Retail media project,CATI,potloc,42,,1,0,,2024-12-19 05:30:00,2025-01-10 05:30:00,"22 days, 0:00:00",On Hold,,Saransh Sharma,Jagdeep Yadav,2024-12-19 10:12:16,1
+3073,002sym009,SYM2402572 Quote request for Crawlspace Remediatio,CATI,Symmetric Sampling,44,,1,0,,2024-12-13 05:30:00,2025-01-14 05:30:00,"32 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2024-12-19 10:10:48,1
+3072,058que059,#2502512C -  Facility workers/ Contractors,CATI,Quest Mindshare,60,,1,0,,2024-12-17 05:30:00,2025-01-09 05:30:00,"23 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2024-12-19 10:09:56,1
+3064,052pro056,IO-99197 | HBE Market Study,CATI,Prodege,20,,1,0,,2024-12-13 05:30:00,2025-01-30 05:30:00,"48 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2024-12-19 10:05:00,1
+3046,001glg710,State of AI W4 - Nordic Countries,CATI,GLG,49,,1,0,,2024-12-13 05:30:00,2025-01-09 05:30:00,"27 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-19 09:52:09,1
+3032,083glo089,Confectionery - Multi countries,IDI,Global Data,139,,1,0,,2024-12-16 05:30:00,2025-01-20 05:30:00,"35 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Vishal Pathak,2024-12-17 13:47:01,1
+3028,110u t111,SCADA Survey in Germany,CATI,U Turn Research GmBH,55,,1,0,,2024-12-11 05:30:00,2025-01-17 05:30:00,"37 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Saurabh Malik,2024-12-11 16:22:54,1
+3025,001glg702,Dispute Products Feedback (Survey #608087),CATI,GLG,49,,1,0,,2024-12-05 05:30:00,2025-01-15 05:30:00,"41 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-09 09:12:02,1
+3024,001glg701,"CDMO/CRO - US, UK, JP, SK, CN",CATI,GLG,58,,1,0,,2024-12-05 05:30:00,2025-01-30 05:30:00,"56 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-09 09:11:09,1
+3017,001glg697,Understanding Preferences for Cloud Marketplaces (,CATI,GLG,49,,1,0,,2024-12-04 05:30:00,2025-01-16 05:30:00,"43 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-09 09:04:48,1
+3014,001glg695,City Brewing Customers,CATI,GLG,50,,1,0,,2024-12-04 05:30:00,2025-01-30 05:30:00,"57 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-07 04:21:14,1
+3004,083glo088,Oral Hygiene Interviews Multi country,IDI,Global Data,156,,1,0,,2024-12-06 05:30:00,2025-01-27 05:30:00,"52 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Vishal Pathak,2024-12-06 18:23:46,1
+3003,083glo087,Primary Interviews in KSA and UAE,IDI,Global Data,0,,1,0,,2024-12-02 05:30:00,2025-01-09 05:30:00,"38 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Vishal Pathak,2024-12-06 18:19:52,1
+2996,001glg686,International Transfers (Survey #607770),CATI,GLG,50,,1,0,,2024-12-03 05:30:00,2025-01-15 05:30:00,"43 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-06 10:53:15,1
+2993,001glg684,GLG Hospital Admins Survey,CATI,GLG,48,,1,0,,2024-12-02 05:30:00,2025-01-15 05:30:00,"44 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-06 05:39:29,1
+2988,001glg683,Compressor Equipment Survey,CATI,GLG,49,,1,0,,2024-12-02 05:30:00,2025-01-15 05:30:00,"44 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-06 05:32:28,1
+2986,003pot207,Digital Auction project,CATI,potloc,42,,1,0,,2024-12-02 05:30:00,2025-01-07 05:30:00,"36 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2024-12-06 05:29:32,1
+2980,081col088,Dynamic Portfolio Management Study,CATI,Coleman Parkes,96,1300,1,0,,2024-12-02 05:30:00,2025-01-10 05:30:00,"39 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Pankaj Nandolia,2024-12-03 17:04:42,1
+2979,075ips084,EdTech Soft Skills Training Study,CATI,Ipsos,90,1000,1,0,,2024-12-02 05:30:00,2025-01-22 05:30:00,"51 days, 0:00:00",Completed,,Gaurav Prashant Saxena,Ankit Narang,2024-12-03 17:02:35,1
+2975,007qua064,Qual4369-0827-ChallengerSchoolMulti-CityStudy | Un,CATI,Qualtrics,20,,1,0,,2024-11-29 05:30:00,2025-02-28 05:30:00,"91 days, 0:00:00",Completed,,Saransh Sharma,Reeti Sharma,2024-12-02 09:18:55,1
+2971,007qua063,Qual73534399-0118-GenderEquity[MP] | Unimrkt,CATI,Qualtrics,44,,1,0,,2024-11-27 05:30:00,2025-01-20 05:30:00,"54 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2024-12-02 09:13:10,1
+2967,001glg672,Healthcare and Brand Awareness,CATI,GLG,50,,1,0,,2024-11-26 05:30:00,2025-01-15 05:30:00,"50 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-02 09:08:53,1
+2959,001glg668,Luxury mall managers_Nov' 24,CATI,GLG,50,,1,0,,2024-11-26 05:30:00,2025-01-15 05:30:00,"50 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-12-02 08:59:51,1
+2957,007qua060,QUAL11325-0805-VBX | Echo Project # 20230517,CATI,Qualtrics,92,,1,0,,2024-11-25 05:30:00,2025-01-14 05:30:00,"50 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2024-11-30 01:28:47,1
+2940,001glg661,LSEG Customers Survey,CATI,GLG,51,,1,0,,2024-11-20 05:30:00,2025-01-15 05:30:00,"56 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-11-23 03:50:55,1
+2936,036inn051,INVBASRA / -Multicountry-Unimrkt CATI (INV144242 ),CATI,Innovate MR,40,,1,0,,2024-11-21 05:30:00,2025-01-17 05:30:00,"57 days, 0:00:00",On Hold,,Saransh Sharma,Saurabh Malik,2024-11-23 03:19:15,1
+2933,071wer083,Electrical Distributors,CATI,Werk Insights,45,,1,0,,2024-11-18 05:30:00,2025-01-20 05:30:00,"63 days, 0:00:00",Completed,,Saransh Sharma,Ankit Narang,2024-11-23 03:16:48,1
+2927,003pot196,Affluent & HNWI - Global survey,CATI,potloc,28,,1,0,,2024-11-14 05:30:00,2025-01-13 05:30:00,"60 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2024-11-21 03:02:53,1
+2926,027dig033,"Logistics/procurement"" study in Europe?",CATI,Digital Research,40,1050,1,0,,2024-11-14 05:30:00,2025-02-03 05:30:00,"81 days, 0:00:00",Completed,,Saransh Sharma,Ankit Narang,2024-11-21 03:02:11,1
+2922,008out010,Black Professionals in Marketing / communications,CATI,Outsized Insights,46,,1,0,,2024-11-15 05:30:00,2025-01-16 05:30:00,"62 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-11-19 18:11:22,1
+2916,003pot193,Home care manufacturers and retailers in Brazil,CATI,potloc,44,,1,0,,2024-11-15 05:30:00,2025-01-23 05:30:00,"69 days, 0:00:00",Completed,,Saransh Sharma,Jagdeep Yadav,2024-11-19 18:06:47,1
+2901,001glg643,Medical tourism Trends,CATI,GLG,49,,1,0,,2024-11-13 05:30:00,2025-01-15 05:30:00,"63 days, 0:00:00",Completed,,Saransh Sharma,Navneet Tiwari,2024-11-19 17:54:46,1
+2873,090har112,L1005105US25 :: Healthcare Digital Evaluation Stud,Online,Harmon Research,5,,1,0,,2024-11-08 05:30:00,2025-01-24 05:30:00,"77 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2024-11-14 14:43:21,1
+2871,035har041,JDP 1003308 2025 US Home Insurance - Unimrkt,Online,Harmon,4,,1,0,,2024-11-08 05:30:00,2025-02-07 05:30:00,"91 days, 0:00:00",On Hold,,Saransh Sharma,Pankaj Nandolia,2024-11-14 14:42:30,1
+2870,035har040,JDP 1003307 2025 US Auto Claims W1 - Unimrkt,Online,Harmon,12,,1,0,,2024-11-08 05:30:00,2025-01-30 05:30:00,"83 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2024-11-14 14:41:59,1
+2868,035har037,JDP 1002802 25 US Credit Card Satisfaction W2 - Un,Online,Harmon,2,,1,0,,2024-11-08 05:30:00,2025-01-22 05:30:00,"75 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2024-11-14 14:41:00,1
+2856,035har038,JDP 1003311 2025 US PCS W3 - Unimrkt,Online,Harmon,12,,1,0,,2024-11-04 05:30:00,2025-01-15 05:30:00,"72 days, 0:00:00",Completed,,Saransh Sharma,Pankaj Nandolia,2024-11-07 08:53:41,1
+2787,036inn044,INVFBOFR - Multi Country - Unimrkt CATI,CATI,Innovate MR,45,,1,0,,2024-11-18 05:30:00,2025-01-17 05:30:00,"60 days, 0:00:00",Completed,,Saransh Sharma,Saurabh Malik,2024-10-26 01:30:57,1

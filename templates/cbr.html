@@ -1,0 +1,233 @@
+{% load static %}
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <title>CBR Genrate</title>
+    <meta name="description" content="Reset Password Email Template.">
+
+    <style type="text/css">
+        /* Font imports */
+        @import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700|Open+Sans:300,400,600,700');
+        a:hover {text-decoration: underline !important;}
+        /* Reset styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Open Sans', sans-serif;
+            background-color: #f2f3f8;
+        }
+
+        /* Container styles */
+        .container {
+            max-width: 670px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 3px;
+            text-align: center;
+            box-shadow: 0 6px 18px 0 rgba(0, 0, 0, 0.06);
+        }
+
+        /* Header styles */
+        .header {
+            padding-top: 30px;
+        }
+
+        /* Title styles */
+        .title {
+            color: #032D3E;
+            font-weight: 500;
+            margin: 0;
+            font-size: 32px;
+            font-family: 'Rubik', sans-serif;
+        }
+
+        /* Divider styles */
+        .divider {
+            display: inline-block;
+            vertical-align: middle;
+            margin: 29px 0 26px;
+            border-bottom: 2px solid #cecece;
+            width: 100px;
+        }
+
+        /* Content styles */
+        .content {
+            padding: 0 35px;
+        }
+
+        /* Button styles */
+        .button {
+            background: #032D3E;
+            text-decoration: none !important;
+            font-weight: 500;
+            margin-top: 35px;
+            color: #fff;
+            text-transform: uppercase;
+            font-size: 14px;
+            padding: 10px 24px;
+            display: inline-block;
+            border-radius: 50px;
+        }
+
+        /* Footer styles */
+        .footer {
+            font-size: 12px;
+            color: #455056;
+            line-height: 24px;
+            margin: 0;
+            padding-bottom: 40px;
+        }
+
+        /* Footer link styles */
+        .footer a {
+            color: #032D3E;
+            text-decoration: underline;
+        }
+
+        /* Table styles */
+        table {
+            width: 100%;
+            margin: 0 auto;
+            max-width: 870px;
+            background: #fff;
+            border-radius: 3px;
+            text-align: center;
+            box-shadow: 0 6px 18px 0 rgba(0,0,0,.06);
+        }
+
+        th, td {
+            padding: 6px;
+        }
+
+        .column-title {
+            color: #032D3E;
+            font-weight: bold;
+        }
+        .row-title{
+            color: #455056;
+            font-weight: bold;
+        }
+
+        /* Button styles */
+        .button {
+            background: #032D3E;
+            text-decoration: none !important;
+            font-weight: 500;
+            margin-top: 35px;
+            color: #fff;
+            text-transform: uppercase;
+            font-size: 14px;
+            padding: 10px 24px;
+            display: inline-block;
+            border-radius: 50px;
+        }
+
+    </style>
+
+</head>
+
+<body marginheight="0" topmargin="0" marginwidth="0" style="margin: 0px; background-color: #f2f3f8;" leftmargin="0">
+    <!--100% body table-->
+    <table cellspacing="0" border="0" cellpadding="0" width="100%" bgcolor="#f2f3f8"
+        style="@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,700|Open+Sans:300,400,600,700); font-family: 'Open Sans', sans-serif;">
+        <tr>
+            <td>
+                <table style="background-color: #f2f3f8; max-width:670px;  margin:0 auto;" width="100%" border="0"
+                    align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td style="height:80px;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:center;">
+                        <img width="60" src="#" title="logo" alt="logo">
+                          
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="height:20px;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0"
+                                style="max-width:670px;background:#fff; border-radius:3px; text-align:center;-webkit-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);-moz-box-shadow:0 6px 18px 0 rgba(0,0,0,.06);box-shadow:0 6px 18px 0 rgba(0,0,0,.06);">
+                                <tr>
+                                    <td style="height:40px;">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td style="padding:0 35px;">
+                                        <h1 style="color:#032D3E; font-weight:500; margin:0;font-size:32px;font-family:'Rubik',sans-serif;">CBR Billing
+                                            </h1>
+                                        <span
+                                            style="display:inline-block; vertical-align:middle; margin:29px 0 26px; border-bottom:1px solid #cecece; width:100px;"></span>
+                                        <p style="color:#455056; font-size:15px;line-height:24px; margin:0;">
+                                            {% comment %} A request has been received to cancel or approve the CBR billing. {% endcomment %}
+                                        </p>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <th class="column-title">Sr.No</th>
+                                                    <th class="column-title">Client Name</th>
+                                                    <th class="column-title">Project Name</th>
+                                                    {% comment %} <th class="column-title">Project Code</th> {% endcomment %}
+                                                    <th class="column-title">Project Manager</th>
+                                                    <th class="column-title">Sales Person Email Address</th>
+                                                    <th class="column-title">Purchase Order</th>
+                                                    {% comment %} <th class="column-title">Email id For cc</th> {% endcomment %}
+                                                    <th class="column-title">Additional Survey</th>
+                                                    <th class="column-title">Survey billed to the client</th>
+                                                    <th class="column-title">billing instruction</th>                   
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td class="row-title">1</td>
+                                                    <td class="row-title">{{ clientname|safe }}</td>
+                                                    <td class="row-title">{{ projectname|safe }}</td>
+                                                    {% comment %} <td class="row-title">{{ projectcode|safe }}</td> {% endcomment %}
+                                                    <td class="row-title">{{ project_manager|safe }}</td>
+                                                    <td class="row-title">{{ person_email|safe }}</td>
+                                                    <td class="row-title">{{purchase_order|safe}}</td>
+                                                    {% comment %} <td class="row-title">{{emailid_cc|safe}}</td> {% endcomment %}
+                                                    <td class="row-title">{{additional_survey|safe}}</td>
+                                                    <td class="row-title">{{billed_client|safe}}</td>
+                                                    <td class="row-title">{{billing_instruction|safe}}</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>                                      
+                                        
+                                       {% comment %} <a href="http://127.0.0.1:8000/api/project/projects/{{projectcode}}/CBR/cancelled"
+                                            style="background:#032D3E;text-decoration:none !important; font-weight:500; margin-top:35px; color:#fff;text-transform:uppercase; font-size:14px;padding:10px 24px;display:inline-block;border-radius:50px;"> Cancel
+                                            </a>&nbsp;
+                                        
+                                            
+
+                                       <a href="http://127.0.0.1:8000/api/project/projects/{{projectcode}}/CBR/approved"
+                                            style="background:#032D3E;text-decoration:none !important; font-weight:500; margin-top:35px; color:#fff;text-transform:uppercase; font-size:14px;padding:10px 24px;display:inline-block;border-radius:50px;"> Approved
+                                            </a>   {% endcomment %}
+                                           					
+                                        {% comment %} <p class="footer">
+                                            Please click the button above within 24 hours of receiving this email. If you didn't request to cancel or approve, then this request automatically cancels. For more information, visit our website <a href="#" target="_blank">www.unimrkt.com</a>.
+                                        </p> {% endcomment %}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="height:40px;">&nbsp;</td>
+                                </tr>
+                            </table>
+                        </td>
+                    <tr>
+                        <td style="height:20px;">&nbsp;</td>
+                    </tr>
+                   
+                    <tr>
+                        <td style="height:80px;">&nbsp;</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!--/100% body table-->
+</body>
+</html>
